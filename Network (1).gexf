@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><gexf xmlns="http://www.gexf.net/1.1draft" version="1.1" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd">
+<meta lastmodifieddate="2011-06-15"><creator>GraphMaker</creator><description>Jacomy Mathieu, Sciences Po Medialab and WebAtlas</description></meta>
+<graph defaultedgetype="undirected" timeformat="double" mode="dynamic">
+<attributes class="node" mode="dynamic">
+<attribute id="attr_type" title="Type" type="string"></attribute>
+<attribute id="global_occurrences" title="Occurrences Count" type="integer"></attribute>
+</attributes>
+<attributes class="edge" mode="dynamic">
+<attribute id="attr_type" title="Type" type="string"></attribute>
+<attribute id="matchings_count" title="Matchings Count" type="integer"></attribute>
+</attributes>
+<nodes>
+<node id="forsker_aa2826a974c5c1cdf90ab61c9ce00b67" label="jens ole">
+<spells>
+<spell start="1900.0" end="1901.0" />
+</spells>
+<attvalues>
+<attvalue for="attr_type" value="Forsker"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="forsker_848dc1a307f7f65df3e03aca067bde2c" label="nina johansen">
+<spells>
+<spell start="1900.0" end="1901.0" />
+</spells>
+<attvalues>
+<attvalue for="attr_type" value="Forsker"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="forsker_79deea0704b0fa9ebb7611c666d62cf1" label="simon jensen">
+<spells>
+<spell start="2000.0" end="2001.0" />
+</spells>
+<attvalues>
+<attvalue for="attr_type" value="Forsker"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="forsker_e4d7d4f10e15a0e19b439c3f40a2fcb2" label="s�ren s�rensen">
+<spells>
+<spell start="1800.0" end="1801.0" />
+</spells>
+<attvalues>
+<attvalue for="attr_type" value="Forsker"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="tema_f39ae9ff3a81f499230c4126e01f421b" label="1800">
+<spells>
+<spell start="1800.0" end="1801.0" />
+</spells>
+<attvalues>
+<attvalue for="attr_type" value=" Tema"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+<node id="tema_9fdb62f932adf55af2c0e09e55861964" label="1900">
+<spells>
+<spell start="1900.0" end="1901.0" />
+<spell start="2000.0" end="2001.0" />
+</spells>
+<attvalues>
+<attvalue for="attr_type" value=" Tema"></attvalue>
+<attvalue for="global_occurrences" value="3"></attvalue>
+</attvalues>
+</node>
+<node id="tema_08f90c1a417155361a5c4b8d297e0d78" label="2000">
+<spells>
+<spell start="2000.0" end="2001.0" />
+</spells>
+<attvalues>
+<attvalue for="attr_type" value=" Tema"></attvalue>
+<attvalue for="global_occurrences" value="1"></attvalue>
+</attvalues>
+</node>
+</nodes>
+<edges>
+<edge source="forsker_aa2826a974c5c1cdf90ab61c9ce00b67" target="tema_9fdb62f932adf55af2c0e09e55861964" >
+<spells>
+<spell start="1900.0" end="1901.0" />
+</spells>
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="forsker_848dc1a307f7f65df3e03aca067bde2c" target="tema_9fdb62f932adf55af2c0e09e55861964" >
+<spells>
+<spell start="1900.0" end="1901.0" />
+</spells>
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="forsker_79deea0704b0fa9ebb7611c666d62cf1" target="tema_9fdb62f932adf55af2c0e09e55861964" >
+<spells>
+<spell start="2000.0" end="2001.0" />
+</spells>
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="forsker_79deea0704b0fa9ebb7611c666d62cf1" target="tema_08f90c1a417155361a5c4b8d297e0d78" >
+<spells>
+<spell start="2000.0" end="2001.0" />
+</spells>
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+<edge source="forsker_e4d7d4f10e15a0e19b439c3f40a2fcb2" target="tema_f39ae9ff3a81f499230c4126e01f421b" >
+<spells>
+<spell start="1800.0" end="1801.0" />
+</spells>
+<attvalues>
+<attvalue for="matchings_count" value="1"></attvalue>
+<attvalue for="attr_type" value=""></attvalue>
+</attvalues>
+</edge>
+</edges>
+</graph></gexf>
