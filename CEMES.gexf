@@ -85,7 +85,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="480.8621" y="-614.3279"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_b47303e9a82ddf89e8131043d0135dfb" label="Anna Vind">
         <attvalues>
@@ -95,7 +95,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="691.9285" y="-1951.8333"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_250ff3c3f8ad27a5596ba4d8148fce7f" label="Barbara Ann Barrow">
         <attvalues>
@@ -145,7 +145,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-166.43631" y="-1675.3"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_dda85c2d30d70203193eceb840db4289" label="Cristine Sarrimo">
         <attvalues>
@@ -165,7 +165,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1573.7399" y="-1175.3728"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_2fe5166a36611db37f9792ab99acf267" label="Dennis Meyhoff Brink">
         <attvalues>
@@ -175,7 +175,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="1691.4635" y="328.10297"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_d5ae9da53f60f26bad86abf1083176ec" label="Denys Kiryukhin">
         <attvalues>
@@ -235,7 +235,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="528.8745" y="-894.219"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_a9c6294ac222d466738420bd8a024392" label="Emil Hilton Saggau">
         <attvalues>
@@ -255,7 +255,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2102.102" y="476.78882"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_8c2d7ef6fc01064261d5bfc49ea7ff6a" label="Fanny Christou">
         <attvalues>
@@ -275,7 +275,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="383.59116" y="1428.1401"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_55baccbbd0a0d94d773c5e8de1cae4dc" label="Hans Olsson">
         <attvalues>
@@ -285,7 +285,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="729.67834" y="1551.8774"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_24e21c8747825b9d464165fbc7bb16d7" label="Isobel Squire">
         <attvalues>
@@ -315,7 +315,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="298.71753" y="-2322.5823"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_14b4fb45529299fb053a8c6aeab3daae" label="Johan Östling">
         <attvalues>
@@ -345,7 +345,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2367.0796" y="621.9431"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_9fa9f8bc48b1258d1450843f4e817322" label="Jonna Pettersson">
         <attvalues>
@@ -375,7 +375,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="78.926094" y="-672.94147"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_3b007b744e236a2e671631dcc26f62a9" label="Jytte Lyngvig">
         <attvalues>
@@ -385,7 +385,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="521.6731" y="-2175.0415"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_bf810eae11826c586a543efd5d45cad2" label="Jørn Boisen">
         <attvalues>
@@ -395,7 +395,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-707.5872" y="-1472.2302"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_c36f368547cc1b1e0d08113b58c8d077" label="Karina Vamling">
         <attvalues>
@@ -435,7 +435,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-802.052" y="1914.1923"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_4513bee762d6beca3caf4c1694e2950c" label="Kirsten Thisted">
         <attvalues>
@@ -445,7 +445,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-60.022102" y="1691.6803"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_c5215fe653e4fb90a6a3065059091bb4" label="Laura Luise Schultz">
         <attvalues>
@@ -455,7 +455,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1971.6473" y="2053.8022"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_881008dfd8cb5cb81cb0fcaee33cce3a" label="Linda Susan Austin">
         <attvalues>
@@ -545,7 +545,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1093.9438" y="-489.1242"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_344e37c359b3d80b508291fb9dccb790" label="Niels Valdemar Vinding">
         <attvalues>
@@ -555,7 +555,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-578.24976" y="-389.34497"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_d515ad0b6913e4f4ffd3816f1a19783e" label="Per Anders Rudling">
         <attvalues>
@@ -575,7 +575,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1527.2736" y="-354.74698"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_e7eeb99b442610818b248e2899734011" label="Petek Onur">
         <attvalues>
@@ -585,7 +585,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2814.594" y="840.50793"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_952e7e17b9102e184cf4a9265f27b05b" label="Rebecka Lettevall">
         <attvalues>
@@ -625,7 +625,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="1986.4983" y="2238.284"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_6baf16d1a389c38f5dcd521c879509fd" label="Simon Cecchin Birk">
         <attvalues>
@@ -635,7 +635,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2208.2122" y="-568.90137"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_2e56cd47c5066fcca4b57790e823cebc" label="Simon Stjernholm">
         <attvalues>
@@ -645,7 +645,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2584.8564" y="989.00867"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_0d6e5805bb89fe996a9ade8e74dd7333" label="Talieh Alsadat Mirsalehi">
         <attvalues>
@@ -665,7 +665,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1204.0082" y="-731.3904"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_1f65301d545911fb23c09fae0d7dde54" label="Tornike Metreveli">
         <attvalues>
@@ -3389,7 +3389,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-1279.3405" y="-105.82271"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="5" label="Asko Kauppinen">
         <attvalues>
@@ -3409,7 +3409,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="22.545097" y="-292.5409"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="7" label="Christian Benne">
         <attvalues>
@@ -3419,7 +3419,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-504.61923" y="-243.25362"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="8" label="Niklas Olsen">
         <attvalues>
@@ -3429,7 +3429,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="415.27063" y="-0.4440918"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="9" label="Irina Hron">
         <attvalues>
@@ -3439,7 +3439,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-117.451996" y="-401.14114"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="10" label="Psychology">
         <attvalues>
@@ -3469,7 +3469,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-2521.2341" y="1169.8593"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="13" label="African Studies">
         <attvalues>
@@ -3499,7 +3499,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="440.1411" y="-136.96835"/>
-        <viz:color r="0" g="0" b="143"/>
+        <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="16" label="Svitlana Babenko">
         <attvalues>
