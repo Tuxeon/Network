@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
-  <meta lastmodifieddate="2023-08-22">
+  <meta lastmodifieddate="2023-09-06">
     <creator>Gephi 0.10.1</creator>
     <title></title>
     <description></description>
@@ -85,7 +85,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="480.8621" y="-614.3279"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_b47303e9a82ddf89e8131043d0135dfb" label="Anna Vind">
         <attvalues>
@@ -95,7 +95,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="691.9285" y="-1951.8333"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_250ff3c3f8ad27a5596ba4d8148fce7f" label="Barbara Ann Barrow">
         <attvalues>
@@ -145,7 +145,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-166.43631" y="-1675.3"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_dda85c2d30d70203193eceb840db4289" label="Cristine Sarrimo">
         <attvalues>
@@ -165,7 +165,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1573.7399" y="-1175.3728"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_2fe5166a36611db37f9792ab99acf267" label="Dennis Meyhoff Brink">
         <attvalues>
@@ -175,7 +175,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="1691.4635" y="328.10297"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_d5ae9da53f60f26bad86abf1083176ec" label="Denys Kiryukhin">
         <attvalues>
@@ -235,7 +235,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="528.8745" y="-894.219"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_a9c6294ac222d466738420bd8a024392" label="Emil Hilton Saggau">
         <attvalues>
@@ -255,7 +255,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2102.102" y="476.78882"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_8c2d7ef6fc01064261d5bfc49ea7ff6a" label="Fanny Christou">
         <attvalues>
@@ -275,7 +275,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="383.59116" y="1428.1401"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_55baccbbd0a0d94d773c5e8de1cae4dc" label="Hans Olsson">
         <attvalues>
@@ -285,7 +285,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="729.67834" y="1551.8774"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_24e21c8747825b9d464165fbc7bb16d7" label="Isobel Squire">
         <attvalues>
@@ -315,7 +315,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="298.71753" y="-2322.5823"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_14b4fb45529299fb053a8c6aeab3daae" label="Johan Östling">
         <attvalues>
@@ -345,7 +345,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2367.0796" y="621.9431"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_9fa9f8bc48b1258d1450843f4e817322" label="Jonna Pettersson">
         <attvalues>
@@ -375,7 +375,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="78.926094" y="-672.94147"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_3b007b744e236a2e671631dcc26f62a9" label="Jytte Lyngvig">
         <attvalues>
@@ -385,7 +385,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="521.6731" y="-2175.0415"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_bf810eae11826c586a543efd5d45cad2" label="Jørn Boisen">
         <attvalues>
@@ -395,7 +395,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-707.5872" y="-1472.2302"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_c36f368547cc1b1e0d08113b58c8d077" label="Karina Vamling">
         <attvalues>
@@ -435,7 +435,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-802.052" y="1914.1923"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_4513bee762d6beca3caf4c1694e2950c" label="Kirsten Thisted">
         <attvalues>
@@ -445,7 +445,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-60.022102" y="1691.6803"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_c5215fe653e4fb90a6a3065059091bb4" label="Laura Luise Schultz">
         <attvalues>
@@ -455,7 +455,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1971.6473" y="2053.8022"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_881008dfd8cb5cb81cb0fcaee33cce3a" label="Linda Susan Austin">
         <attvalues>
@@ -545,7 +545,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1093.9438" y="-489.1242"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_344e37c359b3d80b508291fb9dccb790" label="Niels Valdemar Vinding">
         <attvalues>
@@ -555,7 +555,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-578.24976" y="-389.34497"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_d515ad0b6913e4f4ffd3816f1a19783e" label="Per Anders Rudling">
         <attvalues>
@@ -575,7 +575,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1527.2736" y="-354.74698"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_e7eeb99b442610818b248e2899734011" label="Petek Onur">
         <attvalues>
@@ -585,7 +585,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2814.594" y="840.50793"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_952e7e17b9102e184cf4a9265f27b05b" label="Rebecka Lettevall">
         <attvalues>
@@ -625,7 +625,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="1986.4983" y="2238.284"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_6baf16d1a389c38f5dcd521c879509fd" label="Simon Cecchin Birk">
         <attvalues>
@@ -635,7 +635,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2208.2122" y="-568.90137"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_2e56cd47c5066fcca4b57790e823cebc" label="Simon Stjernholm">
         <attvalues>
@@ -645,7 +645,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2584.8564" y="989.00867"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_0d6e5805bb89fe996a9ade8e74dd7333" label="Talieh Alsadat Mirsalehi">
         <attvalues>
@@ -665,7 +665,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1204.0082" y="-731.3904"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="name_1f65301d545911fb23c09fae0d7dde54" label="Tornike Metreveli">
         <attvalues>
@@ -696,7 +696,7 @@
         </attvalues>
         <viz:size value="24.8"/>
         <viz:position x="548.8132" y="-2514.0918"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_192afb19bdcb826fd5d23cb6c133e54a" label="18th century">
         <attvalues>
@@ -707,7 +707,7 @@
         </attvalues>
         <viz:size value="31.2"/>
         <viz:position x="1101.3469" y="-1515.3221"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_5b54e1047207c70867c235baab601501" label="19th century">
         <attvalues>
@@ -718,7 +718,7 @@
         </attvalues>
         <viz:size value="36.0"/>
         <viz:position x="817.6712" y="-426.39944"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_3c25ec54ccb62b82b9d7a824a8d2a4c8" label="20th century">
         <attvalues>
@@ -729,7 +729,7 @@
         </attvalues>
         <viz:size value="84.0"/>
         <viz:position x="-1128.981" y="1056.126"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_c6fa9918dff6a004dace8e93c96713e8" label="21th century">
         <attvalues>
@@ -740,7 +740,7 @@
         </attvalues>
         <viz:size value="100.0"/>
         <viz:position x="-306.78775" y="764.7771"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_1867c41344d6e9e46b24a7befd7c3476" label="aesthetic analysis">
         <attvalues>
@@ -751,7 +751,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4324.5703" y="2233.367"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_89f165284934c267ed9f634dc0e88d75" label="anthropology">
         <attvalues>
@@ -762,7 +762,7 @@
         </attvalues>
         <viz:size value="26.4"/>
         <viz:position x="-1313.1011" y="2229.0205"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_e3a57a32e28af21565873fddf1783537" label="antiquity">
         <attvalues>
@@ -773,7 +773,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1032.603" y="-4068.4756"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_bde5906c30c740b9c4b63234a9092a93" label="antiquity and its reception">
         <attvalues>
@@ -784,7 +784,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2710.2593" y="-2922.4023"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_57fb0d8ae1cca15990f4730a7f9b9cf1" label="archeology">
         <attvalues>
@@ -795,7 +795,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-3043.334" y="-2793.572"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_42832031dbe65b8acfb9402866d1af88" label="architechture">
         <attvalues>
@@ -806,7 +806,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="3442.6235" y="-452.92102"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_051581db149ddf4d9a4f20f8ead24e88" label="argumentation analysis">
         <attvalues>
@@ -817,7 +817,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="3557.89" y="-2382.6907"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_0a4b47e97dcce2737df0f0fe6063463a" label="art and culture">
         <attvalues>
@@ -839,7 +839,7 @@
         </attvalues>
         <viz:size value="24.8"/>
         <viz:position x="915.08374" y="-1415.9575"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_a74e64b7e5a931c91cfd56963dbd04a8" label="auto fiction">
         <attvalues>
@@ -850,7 +850,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="4427.8735" y="-556.82007"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_332f82e6e192fd8b40b419fee3b2ac1d" label="balkan">
         <attvalues>
@@ -861,7 +861,7 @@
         </attvalues>
         <viz:size value="24.8"/>
         <viz:position x="-1952.1603" y="-1643.7177"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_df1c63d10b03a1ed332f962fa482aa3e" label="baltics">
         <attvalues>
@@ -872,7 +872,7 @@
         </attvalues>
         <viz:size value="24.8"/>
         <viz:position x="-2313.208" y="108.79085"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_4d72f171b156a45a3ae61d53ec079da3" label="borders/boundaries">
         <attvalues>
@@ -894,7 +894,7 @@
         </attvalues>
         <viz:size value="31.2"/>
         <viz:position x="814.0359" y="-235.61853"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_92dd784743660005b4ef43b530650cd3" label="caucasus">
         <attvalues>
@@ -905,7 +905,7 @@
         </attvalues>
         <viz:size value="29.599998"/>
         <viz:position x="-2838.663" y="-687.923"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_42a8a38213755645ad98d1e0fa47937f" label="central europe">
         <attvalues>
@@ -916,7 +916,7 @@
         </attvalues>
         <viz:size value="40.8"/>
         <viz:position x="-912.8627" y="19.45314"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_e70e530874e8f926716dd678908a3ec2" label="children and young people">
         <attvalues>
@@ -971,7 +971,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2754.7" y="2038.87"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_b714cd4f127489402dbe8e6d5f8846c9" label="cold war">
         <attvalues>
@@ -993,7 +993,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2012.1935" y="2966.5398"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_58a93102029aa1d9beeac01c8411e788" label="communication studies">
         <attvalues>
@@ -1004,7 +1004,7 @@
         </attvalues>
         <viz:size value="24.8"/>
         <viz:position x="1951.1836" y="1094.6091"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_7efb44a668f09fb4c2cb467ba541ca1b" label="communist and americanization">
         <attvalues>
@@ -1026,7 +1026,7 @@
         </attvalues>
         <viz:size value="53.6"/>
         <viz:position x="-481.72757" y="-1279.0916"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_574162c4c94608bb27a98f4de16a3159" label="comparative literature">
         <attvalues>
@@ -1048,7 +1048,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-3992.3743" y="-392.79932"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_af64bccc26a099331701ec32a7dfcb78" label="compliance studies">
         <attvalues>
@@ -1059,7 +1059,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4062.389" y="1183.3121"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_f90188deb8ceef38c547eef22cf25b83" label="computational methods">
         <attvalues>
@@ -1070,7 +1070,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="3512.8884" y="-280.69128"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_7c1ed06baf077b26dbef7ff96257e96f" label="contemporary">
         <attvalues>
@@ -1081,7 +1081,7 @@
         </attvalues>
         <viz:size value="64.8"/>
         <viz:position x="-780.74884" y="349.81158"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_cb7e5c2a0e46a8cd9de7ff7ed63db95e" label="content analysis">
         <attvalues>
@@ -1092,7 +1092,7 @@
         </attvalues>
         <viz:size value="21.6"/>
         <viz:position x="-3109.066" y="280.58978"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_2508eba46dad86c44793925684cfc021" label="contextual political analysis">
         <attvalues>
@@ -1103,7 +1103,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4397.067" y="540.7482"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_ec7f26f4ba15ce74e5d7e831f2c9091e" label="corpus linguistics">
         <attvalues>
@@ -1114,7 +1114,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-3616.7573" y="-1578.0209"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_1a177a7c953596ab56110fd04af61c44" label="creative writing">
         <attvalues>
@@ -1125,7 +1125,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="4261.7686" y="1843.1991"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_26e7f3cab7e46c9d18d6494ddf777c9d" label="creativity theory">
         <attvalues>
@@ -1136,7 +1136,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="3303.8438" y="2055.8774"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_0a632016ea7f0f74dfb902bb6712a075" label="crime and punishment">
         <attvalues>
@@ -1158,7 +1158,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-971.4446" y="3850.4644"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_1f9b20047c4710f5e266ced01337758f" label="critical editing">
         <attvalues>
@@ -1169,7 +1169,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2786.9258" y="-3474.2205"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_c2313af817e3f64fa7fadbd4e77d44ae" label="critical phenomenology">
         <attvalues>
@@ -1180,7 +1180,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="4613.9106" y="407.84064"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_17bd498c2757a4ff3aee4cff502d8ade" label="critical theory">
         <attvalues>
@@ -1191,7 +1191,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="3987.757" y="271.4411"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_aace61bff1a9577d69fa437f532ceb22" label="cultural analysis">
         <attvalues>
@@ -1202,7 +1202,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4197.826" y="2111.1365"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_a6e1737e97baea51e89fdf8d4875144f" label="cultural institutions">
         <attvalues>
@@ -1235,7 +1235,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="3627.4458" y="-1351.8871"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_ffe9704df3a7db31d8f4b704405cdb95" label="cultural studies">
         <attvalues>
@@ -1246,7 +1246,7 @@
         </attvalues>
         <viz:size value="50.4"/>
         <viz:position x="395.46912" y="834.1146"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_744dfb3df702c90bca2ac25695fca256" label="culture and democracy">
         <attvalues>
@@ -1279,7 +1279,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4485.882" y="2995.5146"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_09775ee2f13677b36a85834d4798e375" label="democracy">
         <attvalues>
@@ -1312,7 +1312,7 @@
         </attvalues>
         <viz:size value="23.2"/>
         <viz:position x="-1369.971" y="-2260.8638"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_20a9b1cfd0bbf9af6214b6f1ed41c6d3" label="digitalization">
         <attvalues>
@@ -1334,7 +1334,7 @@
         </attvalues>
         <viz:size value="68.0"/>
         <viz:position x="-2139.8423" y="841.6854"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_38648f8877383d13af2fa6722619dd96" label="distant reading">
         <attvalues>
@@ -1345,7 +1345,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="3977.8499" y="65.42027"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_003c25c1804bd5bbb8c4151040e25751" label="early modern">
         <attvalues>
@@ -1356,7 +1356,7 @@
         </attvalues>
         <viz:size value="29.599998"/>
         <viz:position x="-80.815025" y="-2414.9897"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_db3cede5ea1683347c8af51652873cf2" label="eastern and central european studies">
         <attvalues>
@@ -1367,7 +1367,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2410.2249" y="3372.9863"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_8235a3c9a3a18512b92467e1d0705b27" label="eastern europe">
         <attvalues>
@@ -1378,7 +1378,7 @@
         </attvalues>
         <viz:size value="48.800003"/>
         <viz:position x="-1692.7505" y="467.01337"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_d6023fdb83357dc59f3384315093af77" label="empire">
         <attvalues>
@@ -1400,7 +1400,7 @@
         </attvalues>
         <viz:size value="71.2"/>
         <viz:position x="-2773.0217" y="529.2501"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_9bbf696a35f34f6a6c130d4f8360a2a3" label="enlightenment">
         <attvalues>
@@ -1411,7 +1411,7 @@
         </attvalues>
         <viz:size value="31.2"/>
         <viz:position x="-55.377037" y="-2181.5044"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_9ecc9a3c7cac1ec8617407ec0927fab8" label="entangled history">
         <attvalues>
@@ -1422,7 +1422,7 @@
         </attvalues>
         <viz:size value="48.800003"/>
         <viz:position x="749.67706" y="89.39143"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_2d883d5e00eae726131fbafb7beeae25" label="environmental studies">
         <attvalues>
@@ -1433,7 +1433,7 @@
         </attvalues>
         <viz:size value="29.599998"/>
         <viz:position x="1110.4363" y="1014.50964"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_aa40d354134de747f9ded033772c7c3f" label="epistemic communities">
         <attvalues>
@@ -1444,7 +1444,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4268.705" y="1343.1035"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_9472bb6f67e96e157fc6e53e05cae5ee" label="ethnographic methods">
         <attvalues>
@@ -1455,7 +1455,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="1777.6073" y="3486.6055"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_8cc3a6c4cb55ab770729174c1d557f80" label="ethnography">
         <attvalues>
@@ -1466,7 +1466,7 @@
         </attvalues>
         <viz:size value="24.8"/>
         <viz:position x="62.53763" y="2755.1228"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_c9a02f556ad49a7667e7f984c8e2ef52" label="ethnology">
         <attvalues>
@@ -1477,7 +1477,7 @@
         </attvalues>
         <viz:size value="24.8"/>
         <viz:position x="-802.8268" y="2857.859"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_7abd814166450a9fd6993af0fe8b8f2b" label="european integration">
         <attvalues>
@@ -1499,7 +1499,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4521.0654" y="1214.3866"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_5ec96b0dc99c7640059767025d403866" label="feminist theory">
         <attvalues>
@@ -1510,7 +1510,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-96.37481" y="4024.5703"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_197a4253988619b22a45a77ea86ddcd8" label="film and media studies">
         <attvalues>
@@ -1521,7 +1521,7 @@
         </attvalues>
         <viz:size value="32.8"/>
         <viz:position x="2053.3435" y="1264.433"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_692a6937a86c0060187e1fd7cc7fa81c" label="Systemic-functional linguistics">
         <attvalues>
@@ -1532,7 +1532,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1583.0015" y="-3868.12"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_cc90f1913b83d255b95be0e0fea6d576" label="gender">
         <attvalues>
@@ -1543,7 +1543,7 @@
         </attvalues>
         <viz:size value="61.6"/>
         <viz:position x="1694.8457" y="2090.3972"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_32134c6b32b7a5d943931f38e69f14ce" label="gender studies">
         <attvalues>
@@ -1554,7 +1554,7 @@
         </attvalues>
         <viz:size value="29.599998"/>
         <viz:position x="1795.92" y="923.6333"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_996dfb007ba9e5517e4d649e85d10108" label="geography">
         <attvalues>
@@ -1565,7 +1565,7 @@
         </attvalues>
         <viz:size value="21.6"/>
         <viz:position x="-972.81995" y="2439.3147"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_7b52ea30235795837c183dbf7b859134" label="geopolitics">
         <attvalues>
@@ -1576,7 +1576,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-471.50095" y="3873.9092"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_14b572724ad183ca0a09f65086b11c21" label="german literature">
         <attvalues>
@@ -1598,7 +1598,7 @@
         </attvalues>
         <viz:size value="42.4"/>
         <viz:position x="-1972.7882" y="382.8476"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_cb8d2bb192393b9722816e8135a52981" label="globalization">
         <attvalues>
@@ -1631,7 +1631,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="94.56533" y="-3705.6157"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_d8e3dae1418e7cdd12f91702b45db009" label="historical methodology">
         <attvalues>
@@ -1642,7 +1642,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1677.3662" y="-1869.838"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_3cd15f8f2940aff879df34df4e5c2cd1" label="history">
         <attvalues>
@@ -1653,7 +1653,7 @@
         </attvalues>
         <viz:size value="58.399998"/>
         <viz:position x="-933.87915" y="-1187.5083"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_1bea4e774f416760332c0acf889b48b6" label="history of european integration">
         <attvalues>
@@ -1664,7 +1664,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="1485.8524" y="-3238.4055"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_417cc8fe9c424615babf4a3eea132f53" label="history of knowledge">
         <attvalues>
@@ -1675,7 +1675,7 @@
         </attvalues>
         <viz:size value="21.6"/>
         <viz:position x="1626.6459" y="-3532.1228"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_1536ae704f0a1ee09182ca003436c6b8" label="history of memory theories">
         <attvalues>
@@ -1730,7 +1730,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="1813.3477" y="-3369.7537"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_67d710ac25d93e767735695affe1b2b5" label="holocaust">
         <attvalues>
@@ -1741,7 +1741,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-3753.3145" y="-1230.15"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_ca7b9475d1cd3d88316cb9fa6cb7fa67" label="human rights">
         <attvalues>
@@ -1763,7 +1763,7 @@
         </attvalues>
         <viz:size value="21.6"/>
         <viz:position x="-1709.4482" y="-1701.0421"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_303f38992ba51f4516fad0bb1b1be242" label="information studies">
         <attvalues>
@@ -1774,7 +1774,7 @@
         </attvalues>
         <viz:size value="21.6"/>
         <viz:position x="-1075.8414" y="2724.9316"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_13e8125d8a725025ff413f0af784c806" label="instructions and feedback in sports studies">
         <attvalues>
@@ -1796,7 +1796,7 @@
         </attvalues>
         <viz:size value="61.6"/>
         <viz:position x="-42.01699" y="-1213.4326"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_dbce12e78a3a33f49bd8460d06e21ee8" label="international cooperation">
         <attvalues>
@@ -1829,7 +1829,7 @@
         </attvalues>
         <viz:size value="24.8"/>
         <viz:position x="-4778.7695" y="2214.1455"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_2ac4a77444990f4794308193a939c6fb" label="interwar period">
         <attvalues>
@@ -1840,7 +1840,7 @@
         </attvalues>
         <viz:size value="29.599998"/>
         <viz:position x="-1242.4989" y="-1393.2568"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_63b607dc1b51e76f71048a644e7382d0" label="islam in europe">
         <attvalues>
@@ -1862,7 +1862,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4014.4158" y="-902.9469"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_62fd473688fbc7b8609fb93cb4ce93b4" label="Christian-Muslim-Jewish relations">
         <attvalues>
@@ -1884,7 +1884,7 @@
         </attvalues>
         <viz:size value="26.4"/>
         <viz:position x="1762.4058" y="1212.3351"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_9bef91aa59d15bb898f4e00dc145bc56" label="journalism culture">
         <attvalues>
@@ -1917,7 +1917,7 @@
         </attvalues>
         <viz:size value="34.4"/>
         <viz:position x="-276.17737" y="-2283.4275"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_2e51629a76793aa42cb1986730999107" label="late modern">
         <attvalues>
@@ -1928,7 +1928,7 @@
         </attvalues>
         <viz:size value="21.6"/>
         <viz:position x="2061.602" y="-956.9489"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_e21783ce66841952bc41d4ae6ddc09c5" label="legal geography">
         <attvalues>
@@ -1939,7 +1939,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-3896.4714" y="2839.711"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_b37bc70b60a38862f3f6b37f7636b3ef" label="legal history">
         <attvalues>
@@ -1950,7 +1950,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-3384.4998" y="-2076.399"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_732dad16e33b1f7ad93a915a373f1271" label="legal philosophy">
         <attvalues>
@@ -1961,7 +1961,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-3513.2705" y="2622.9915"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_40b81860354633697e974a1b32c2fe9e" label="legitimacy studies">
         <attvalues>
@@ -1972,7 +1972,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4320.7383" y="298.961"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_4fe770a1ae9a5f46d11fd4396e255f09" label="librarian's social role">
         <attvalues>
@@ -2005,7 +2005,7 @@
         </attvalues>
         <viz:size value="23.2"/>
         <viz:position x="-1750.1045" y="-1975.3159"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_b09380c8b813dd85ee8f4f51f44875ce" label="linguistics analyses">
         <attvalues>
@@ -2016,7 +2016,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2389.159" y="-3743.3923"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_c24a7835fee776c4dc95c6bd03d4f167" label="literary analyses">
         <attvalues>
@@ -2027,7 +2027,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2730.068" y="2186.6724"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_ccc434ad2a1721f0b690df8efd4bda0a" label="literary studies">
         <attvalues>
@@ -2038,7 +2038,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="4092.749" y="1689.5565"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_31420f10f90ea1b0c98807576bf35683" label="literary theory">
         <attvalues>
@@ -2049,7 +2049,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="4397.0537" y="-797.08655"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_7c5bd03b45176fa36f00aa91090dc0aa" label="literature">
         <attvalues>
@@ -2060,7 +2060,7 @@
         </attvalues>
         <viz:size value="44.0"/>
         <viz:position x="1187.0154" y="-650.0293"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_b787de21729509f10b1b41f5b41a286f" label="macrohistory">
         <attvalues>
@@ -2071,7 +2071,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="4161.0737" y="156.75652"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_9acda7ef86e5303338585e3bc4d1c50d" label="manuscript studies">
         <attvalues>
@@ -2082,7 +2082,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2268.8782" y="-3825.4775"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_55bcd22b3106f584271dbfd74bb64723" label="marxism">
         <attvalues>
@@ -2093,7 +2093,7 @@
         </attvalues>
         <viz:size value="21.6"/>
         <viz:position x="2176.0645" y="897.7213"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_52816dd4824ef6d2569f977e03ceff13" label="Socio-material theory">
         <attvalues>
@@ -2104,7 +2104,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2217.0637" y="3905.0215"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_bcaef162ee84ba3623a446653d41d940" label="mediatization theory">
         <attvalues>
@@ -2115,7 +2115,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-424.47787" y="4231.9434"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_5166479d629efb4e33ea4bc8a9b68561" label="medicine humanities">
         <attvalues>
@@ -2126,7 +2126,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-3139.498" y="3688.1353"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_1a6d49b1b51b30ec475fabd023b2089c" label="medieval time">
         <attvalues>
@@ -2137,7 +2137,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2691.5173" y="-3891.7551"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_48a53d750bd3d7e6382976dd2c1d65a8" label="mediterraenean">
         <attvalues>
@@ -2148,7 +2148,7 @@
         </attvalues>
         <viz:size value="32.8"/>
         <viz:position x="-1583.2618" y="-1496.586"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_435cfc8caf35346fb7356efd6fc82119" label="memory culture">
         <attvalues>
@@ -2159,7 +2159,7 @@
         </attvalues>
         <viz:size value="58.399998"/>
         <viz:position x="-1356.5848" y="214.3521"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_773c0eaae958dde52eb68fae6b70a7e1" label="memory studies">
         <attvalues>
@@ -2170,7 +2170,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-1514.7781" y="2327.9116"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_689c7de999dbd79ef9a3ef5e4c41e3e3" label="metafiction">
         <attvalues>
@@ -2192,7 +2192,7 @@
         </attvalues>
         <viz:size value="34.4"/>
         <viz:position x="474.99374" y="1032.1632"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_65228681b6999819712a9988be99f43c" label="middle ages">
         <attvalues>
@@ -2203,7 +2203,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-835.4476" y="-4195.685"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_b439f9bbe0a4c866b54c7399f0d21e37" label="migration">
         <attvalues>
@@ -2225,7 +2225,7 @@
         </attvalues>
         <viz:size value="21.6"/>
         <viz:position x="-1138.046" y="2568.3147"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_ae74ea4e2e865ed3fd60c18a06e69c65" label="modern">
         <attvalues>
@@ -2236,7 +2236,7 @@
         </attvalues>
         <viz:size value="26.4"/>
         <viz:position x="449.3591" y="-1205.763"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_e7bcf4955ef4f910088aa596f88e645a" label="modern culture">
         <attvalues>
@@ -2247,7 +2247,7 @@
         </attvalues>
         <viz:size value="39.199997"/>
         <viz:position x="548.3158" y="217.50157"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_94930c2de9522785a5b06858fd9d6970" label="multimodal analyses">
         <attvalues>
@@ -2258,7 +2258,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-3658.6892" y="2170.4705"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_9ae561b2f4447a4411c1c4cc29e6333f" label="mundane transcendental approaches">
         <attvalues>
@@ -2269,7 +2269,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="4976.5967" y="239.98723"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_8b573b4510c1a532f35f11f194252ec9" label="musicology">
         <attvalues>
@@ -2280,7 +2280,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="1436.432" y="-3975.985"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_5749443f5a1f3ddf032837cf7eeed73e" label="narratology">
         <attvalues>
@@ -2291,7 +2291,7 @@
         </attvalues>
         <viz:size value="23.2"/>
         <viz:position x="2762.3296" y="1075.5718"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_23957d42ce5ba5cb27e4868383834266" label="nationalism/national identity">
         <attvalues>
@@ -2313,7 +2313,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2366.1394" y="2478.665"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_73a3445a61215798d37ed98b3a8854d1" label="new historicism">
         <attvalues>
@@ -2324,7 +2324,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="4207.0034" y="2039.3239"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_621f3b1d369ce04738009de6c816eb54" label="nissology">
         <attvalues>
@@ -2357,7 +2357,7 @@
         </attvalues>
         <viz:size value="56.8"/>
         <viz:position x="645.90076" y="462.88464"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_f47e565728e6536c3f0687d1421a7ec4" label="normative democracy theory">
         <attvalues>
@@ -2368,7 +2368,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4068.3835" y="877.7068"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_ce4b9b295e42404cbda293ba5f8d08ab" label="normative method">
         <attvalues>
@@ -2379,7 +2379,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4161.6753" y="2595.514"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_a803e33b393cd3eb4d2b6748fa755213" label="northern europe">
         <attvalues>
@@ -2390,7 +2390,7 @@
         </attvalues>
         <viz:size value="60.0"/>
         <viz:position x="1073.3042" y="477.57117"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_b4120c940fffff695d925df1eaefd399" label="observations">
         <attvalues>
@@ -2401,7 +2401,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-3973.7786" y="1744.1969"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_acd8c6301a175d9c04a606500388fec8" label="oral history">
         <attvalues>
@@ -2412,7 +2412,7 @@
         </attvalues>
         <viz:size value="39.199997"/>
         <viz:position x="-1788.5548" y="1391.3663"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_65dc62dbac57113112b87eeb13c9f78b" label="ordinary language philosophy">
         <attvalues>
@@ -2423,7 +2423,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="3476.6433" y="-1491.8478"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_f93bec28cb767a3a2ec5b7f4cf798139" label="organizational theory">
         <attvalues>
@@ -2434,7 +2434,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="221.87209" y="4129.6187"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_a3fdd46395f81a71d61903f458b0cd75" label="palaeography and book history">
         <attvalues>
@@ -2445,7 +2445,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2370.1406" y="-3593.83"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_762d6c2ee163ee96ddefe038ef9c85c1" label="peace &amp; conflict studies">
         <attvalues>
@@ -2467,7 +2467,7 @@
         </attvalues>
         <viz:size value="21.6"/>
         <viz:position x="2002.4901" y="118.54002"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_5c0d32b2d5067ac40cf27cbce29a8235" label="phenomenology">
         <attvalues>
@@ -2478,7 +2478,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4653.053" y="2758.1086"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_8b1a891cb0024a05b7be205295ea6db4" label="philology methods">
         <attvalues>
@@ -2489,7 +2489,7 @@
         </attvalues>
         <viz:size value="32.8"/>
         <viz:position x="1090.2799" y="-2289.34"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_225ab6cdf797eae79495ff584a46dfd2" label="philosophy">
         <attvalues>
@@ -2500,7 +2500,7 @@
         </attvalues>
         <viz:size value="32.8"/>
         <viz:position x="-336.9098" y="-1464.225"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_1b2072547afb75e49f33b016751ed360" label="photography">
         <attvalues>
@@ -2511,7 +2511,7 @@
         </attvalues>
         <viz:size value="21.6"/>
         <viz:position x="1164.4159" y="2622.369"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_f987144428af48c9da6f53087840bfdd" label="policy studies">
         <attvalues>
@@ -2533,7 +2533,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4501.4087" y="1079.9977"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_b32fa0b40e1fb889d2cc65def7d46d6b" label="political campaigning">
         <attvalues>
@@ -2566,7 +2566,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="638.7878" y="3918.7637"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_b0ecdb065871fe15f6cd2d33b9721602" label="political geography">
         <attvalues>
@@ -2577,7 +2577,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-3743.3738" y="2960.3914"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_dc4dd8b6d48adbe24f284d996d893dc1" label="political history">
         <attvalues>
@@ -2588,7 +2588,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2797.6846" y="-2573.7512"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_29e3ce579ec0530aeab19c491cc80f67" label="political science">
         <attvalues>
@@ -2599,7 +2599,7 @@
         </attvalues>
         <viz:size value="44.0"/>
         <viz:position x="-2306.4858" y="1465.8156"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_bbbaf923cdbf4de8314d563fb7030517" label="political theology">
         <attvalues>
@@ -2621,7 +2621,7 @@
         </attvalues>
         <viz:size value="21.6"/>
         <viz:position x="-2975.0793" y="2403.318"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_a0f15d09df04d9ad657ce26e371ddf9a" label="politics">
         <attvalues>
@@ -2654,7 +2654,7 @@
         </attvalues>
         <viz:size value="37.6"/>
         <viz:position x="-990.4446" y="-1658.6271"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_1662a3ed71e3856b14f0a730daa0da62" label="postcolonial theory">
         <attvalues>
@@ -2665,7 +2665,7 @@
         </attvalues>
         <viz:size value="50.4"/>
         <viz:position x="6.5523753" y="2373.6587"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_3d8b9c817809317cc8831d5801eba0be" label="postcolonialism">
         <attvalues>
@@ -2687,7 +2687,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="3402.7996" y="-2614.1663"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_60af83a785b06536e617bc37d11b3879" label="postmigration">
         <attvalues>
@@ -2709,7 +2709,7 @@
         </attvalues>
         <viz:size value="39.199997"/>
         <viz:position x="90.187256" y="2206.8508"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_391744360eec0f2acd5664fcde5fc0fc" label="political economy">
         <attvalues>
@@ -2720,7 +2720,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-845.7337" y="3982.0264"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_67693f70474b1f54d9a56e5a0e8f3c24" label="practice theory">
         <attvalues>
@@ -2731,7 +2731,7 @@
         </attvalues>
         <viz:size value="21.6"/>
         <viz:position x="-1217.331" y="2954.1797"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_76a18941631da1f461b50e27a47477a9" label="practices of care and solidarity">
         <attvalues>
@@ -2786,7 +2786,7 @@
         </attvalues>
         <viz:size value="31.2"/>
         <viz:position x="931.2969" y="-553.08624"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_537c729416a1a8c39f4c5a6f38f11e56" label="psychoanalysis">
         <attvalues>
@@ -2797,7 +2797,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="5198.2397" y="970.7146"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_ee115a78c3f56618343a3a1b508ff75e" label="public libraries">
         <attvalues>
@@ -2819,7 +2819,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2289.8884" y="2610.5544"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_47ce11bd315de5e2409bed5db97acaed" label="quantiative methods">
         <attvalues>
@@ -2830,7 +2830,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4031.6467" y="-228.87553"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_ebde63767a5c1437e6f6dfce44a76122" label="racialization">
         <attvalues>
@@ -2885,7 +2885,7 @@
         </attvalues>
         <viz:size value="40.8"/>
         <viz:position x="-788.3826" y="1348.3724"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_f16cc584cec55f3f285086daaf0c2fdf" label="religion">
         <attvalues>
@@ -2896,7 +2896,7 @@
         </attvalues>
         <viz:size value="34.4"/>
         <viz:position x="-1672.9775" y="-858.92194"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_45f510979f41f2fc4cd6e46a1243c682" label="religious practices">
         <attvalues>
@@ -2918,7 +2918,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="1210.7875" y="-3905.182"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_aea929c53ba58775b1c1a604810e2f2b" label="scandinavia">
         <attvalues>
@@ -2929,7 +2929,7 @@
         </attvalues>
         <viz:size value="79.2"/>
         <viz:position x="179.1184" y="467.0808"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_9f5f90f9339393c46c71e7a7647d2ccb" label="semantic analyses">
         <attvalues>
@@ -2940,7 +2940,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2175.895" y="-4017.12"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_b19245958140d2f7ebc3abe806e8f46a" label="semantics">
         <attvalues>
@@ -2951,7 +2951,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2307.957" y="-3873.7957"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_305da8b83584a5268e3fb9a1ab3e0051" label="sexuality">
         <attvalues>
@@ -3006,7 +3006,7 @@
         </attvalues>
         <viz:size value="26.4"/>
         <viz:position x="1891.0657" y="-54.22603"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_a7f6d59c868b7788bf68a34457950d92" label="social sustainability">
         <attvalues>
@@ -3039,7 +3039,7 @@
         </attvalues>
         <viz:size value="31.2"/>
         <viz:position x="-1768.3778" y="993.0487"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_325137bfb931031b8cd721a0042c8343" label="sociology of emotions">
         <attvalues>
@@ -3050,7 +3050,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="172.47964" y="4341.4707"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_baff18f1b2e3e76ace103c7720247e17" label="sociology of journalism">
         <attvalues>
@@ -3061,7 +3061,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="1080.5979" y="3820.832"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_aaa409c19dd7dd6871e6b930dcf27978" label="southern europe">
         <attvalues>
@@ -3072,7 +3072,7 @@
         </attvalues>
         <viz:size value="36.0"/>
         <viz:position x="-1207.2129" y="-1784.7004"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_8aaf7fb27815fbc4e9691278bb72375b" label="spatiality">
         <attvalues>
@@ -3105,7 +3105,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2879.4648" y="-3695.4229"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_b846077409dc6a1778d9fc7e313fd53b" label="STS">
         <attvalues>
@@ -3116,7 +3116,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-2325.69" y="3755.7283"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_35ab56109ec402d8f179e710e4623ad9" label="symbolic interaction theory">
         <attvalues>
@@ -3127,7 +3127,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-331.4559" y="4448.958"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_92afdce9b79841ce45d7c97c16bf015f" label="symbolic interactionism">
         <attvalues>
@@ -3138,7 +3138,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4225.616" y="3.138871"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_3a1c231ce8b8ee303c71e0ba006a0f05" label="systematic theological approaches">
         <attvalues>
@@ -3149,7 +3149,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="4403.985" y="908.36487"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_bf46c9aa184b0a6afd2520a7454fc44a" label="textual studies">
         <attvalues>
@@ -3160,7 +3160,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="3861.8186" y="1928.3402"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_cd8e8970d15b3583a7247ade0168fcfb" label="textual traditions">
         <attvalues>
@@ -3171,7 +3171,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="2322.9885" y="-4067.5015"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_81a4f18daf5f19cf8aabab52d45dec34" label="theatre studies">
         <attvalues>
@@ -3182,7 +3182,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4617.484" y="1981.2953"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_3d5f2683ed82dba62932e34f624f32f0" label="theology">
         <attvalues>
@@ -3193,7 +3193,7 @@
         </attvalues>
         <viz:size value="32.8"/>
         <viz:position x="651.59534" y="-1409.6624"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_f3543686b1aeb9182696bde8e16145b2" label="theories of fiction">
         <attvalues>
@@ -3204,7 +3204,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="4816.631" y="-927.8327"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_9e6cb1d4ce6d776ce06ba6bdb89f37b8" label="theory of justice">
         <attvalues>
@@ -3215,7 +3215,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-4219.0454" y="694.08936"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_56599628bcc27ed189dbb7b5808f5914" label="thomas mann">
         <attvalues>
@@ -3237,7 +3237,7 @@
         </attvalues>
         <viz:size value="31.2"/>
         <viz:position x="678.35236" y="918.62695"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_23c04680abac66aee094f46e12e0ba42" label="transculturality">
         <attvalues>
@@ -3259,7 +3259,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="4036.8323" y="-436.35922"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_468608f70c53a72e24597177edbc1d9c" label="transnational history">
         <attvalues>
@@ -3270,7 +3270,7 @@
         </attvalues>
         <viz:size value="58.399998"/>
         <viz:position x="-431.62955" y="-674.0301"/>
-        <viz:color r="95" g="198" b="19"/>
+        <viz:color r="96" g="255" b="19" a="0.9019608"/>
       </node>
       <node id="keyword_16731432de5b000accc6f87cc85e4e0f" label="urban studies">
         <attvalues>
@@ -3281,7 +3281,7 @@
         </attvalues>
         <viz:size value="26.4"/>
         <viz:position x="-321.81357" y="2520.838"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_4e1e840bfd2d49abac2f8a3af841a229" label="uses of history">
         <attvalues>
@@ -3303,7 +3303,7 @@
         </attvalues>
         <viz:size value="23.2"/>
         <viz:position x="7.442497" y="2946.4136"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_95679ab3c1f7c8f7fcc7131e166d2336" label="visual culture">
         <attvalues>
@@ -3314,7 +3314,7 @@
         </attvalues>
         <viz:size value="26.4"/>
         <viz:position x="1442.2069" y="1296.5021"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="keyword_f3aa233c44f4178b1e2306896cbbccef" label="visual media analysis">
         <attvalues>
@@ -3325,7 +3325,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="-3959.8352" y="1545.2032"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_dbd6aa70f9afc6997c1e82e3980f94d2" label="visual methodology">
         <attvalues>
@@ -3336,7 +3336,7 @@
         </attvalues>
         <viz:size value="20.0"/>
         <viz:position x="1051.4127" y="4023.4692"/>
-        <viz:color r="255" g="255" b="85"/>
+        <viz:color r="255" g="255" b="85" a="0.9019608"/>
       </node>
       <node id="keyword_8f2cdef58e35bd1e97e161e9b1e86188" label="western europe">
         <attvalues>
@@ -3347,7 +3347,7 @@
         </attvalues>
         <viz:size value="56.8"/>
         <viz:position x="1174.1194" y="-1259.9177"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="keyword_640c14b7b1e8b132492d5cc0e92f2f1d" label="world literature">
         <attvalues>
@@ -3369,7 +3369,7 @@
         </attvalues>
         <viz:size value="28.0"/>
         <viz:position x="-1364.2987" y="-2086.0046"/>
-        <viz:color r="220" g="207" b="0"/>
+        <viz:color r="220" g="207" b="0" a="0.9019608"/>
       </node>
       <node id="3" label="Rahel Weldeab Sebhatu">
         <attvalues>
@@ -3389,7 +3389,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-1279.3405" y="-105.82271"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="5" label="Asko Kauppinen">
         <attvalues>
@@ -3409,7 +3409,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="22.545097" y="-292.5409"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="7" label="Christian Benne">
         <attvalues>
@@ -3419,7 +3419,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-504.61923" y="-243.25362"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="8" label="Niklas Olsen">
         <attvalues>
@@ -3429,7 +3429,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="415.27063" y="-0.4440918"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="9" label="Irina Hron">
         <attvalues>
@@ -3439,7 +3439,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-117.451996" y="-401.14114"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="10" label="Psychology">
         <attvalues>
@@ -3449,7 +3449,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="1750.8383" y="-1337.6061"/>
-        <viz:color r="111" g="255" b="74"/>
+        <viz:color r="111" g="255" b="74" a="0.9019608"/>
       </node>
       <node id="11" label="Erik Sidenvall">
         <attvalues>
@@ -3469,7 +3469,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-2521.2341" y="1169.8593"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="13" label="African Studies">
         <attvalues>
@@ -3479,7 +3479,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-3822.2925" y="1894.7109"/>
-        <viz:color r="133" g="85" b="0"/>
+        <viz:color r="135" g="85" b="0" a="0.9019608"/>
       </node>
       <node id="14" label="Elzbieta Drazkiewicz">
         <attvalues>
@@ -3499,7 +3499,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="440.1411" y="-136.96835"/>
-        <viz:color r="30" g="11" b="255"/>
+        <viz:color r="0" g="0" b="143"/>
       </node>
       <node id="16" label="Svitlana Babenko">
         <attvalues>
