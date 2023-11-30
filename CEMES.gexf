@@ -24,7 +24,7 @@
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="51"/>
-          <attvalue for="attr_1_2" value=""/>
+          <attvalue for="attr_1_2" value="&lt;null value>"/>
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
@@ -36,7 +36,7 @@
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="41"/>
-          <attvalue for="attr_1_2" value=""/>
+          <attvalue for="attr_1_2" value="&lt;null value>"/>
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
@@ -3381,6 +3381,7 @@
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="&lt;null value>"/>
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
@@ -3392,7 +3393,7 @@
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
-          <attvalue for="attr_1_2" value=""/>
+          <attvalue for="attr_1_2" value="&lt;null value>"/>
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
@@ -3404,6 +3405,7 @@
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value="&lt;null value>"/>
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
@@ -3415,7 +3417,7 @@
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
-          <attvalue for="attr_1_2" value=""/>
+          <attvalue for="attr_1_2" value="&lt;null value>"/>
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
@@ -3427,7 +3429,7 @@
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
-          <attvalue for="attr_1_2" value=""/>
+          <attvalue for="attr_1_2" value="&lt;null value>"/>
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
@@ -3439,7 +3441,7 @@
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
-          <attvalue for="attr_1_2" value=""/>
+          <attvalue for="attr_1_2" value="&lt;null value>"/>
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
@@ -3528,7 +3530,7 @@
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
-          <attvalue for="attr_1_2" value=""/>
+          <attvalue for="attr_1_2" value="&lt;null value>"/>
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
@@ -3562,7 +3564,7 @@
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
-          <attvalue for="attr_1_2" value=""/>
+          <attvalue for="attr_1_2" value="&lt;null value>"/>
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
