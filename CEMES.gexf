@@ -28,8 +28,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="88.10171"/>
-        <viz:position x="-598.22046" y="1698.6307"/>
+        <viz:size value="24.222063"/>
+        <viz:position x="-129.76453" y="363.6908"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_3c25ec54ccb62b82b9d7a824a8d2a4c8" label="20th century">
@@ -40,8 +40,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="73.15029"/>
-        <viz:position x="-3784.554" y="2827.7266"/>
+        <viz:size value="20.62703"/>
+        <viz:position x="-895.91113" y="635.17926"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_23957d42ce5ba5cb27e4868383834266" label="Nationalism/national identity">
@@ -51,8 +51,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="68.66486"/>
-        <viz:position x="-4694.085" y="1406.5435"/>
+        <viz:size value="19.54852"/>
+        <viz:position x="-1114.6058" y="293.45908"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_aea929c53ba58775b1c1a604810e2f2b" label="Scandinavia">
@@ -62,8 +62,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="68.66486"/>
-        <viz:position x="1284.8635" y="544.93665"/>
+        <viz:size value="19.54852"/>
+        <viz:position x="323.01874" y="86.287674"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_ea674eb3f424b759c785d07f3f6a492f" label="Empirical methods">
@@ -73,8 +73,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="61.18916"/>
-        <viz:position x="-10155.88" y="785.8681"/>
+        <viz:size value="17.751003"/>
+        <viz:position x="-2427.8818" y="144.21909"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_341dc8378ddbe601a77005d41a19eca0" label="Discourse analysis">
@@ -84,8 +84,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="58.19888"/>
-        <viz:position x="-7702.0527" y="1996.6819"/>
+        <viz:size value="17.031998"/>
+        <viz:position x="-1837.8649" y="435.3565"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_7c1ed06baf077b26dbef7ff96257e96f" label="Contemporary">
@@ -95,8 +95,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="55.2086"/>
-        <viz:position x="-2435.0122" y="90.47073"/>
+        <viz:size value="16.31299"/>
+        <viz:position x="-571.4169" y="-22.98762"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_cc90f1913b83d255b95be0e0fea6d576" label="Gender">
@@ -106,8 +106,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="52.21831"/>
-        <viz:position x="7158.9233" y="6835.9478"/>
+        <viz:size value="15.593983"/>
+        <viz:position x="1735.423" y="1598.9469"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_b1144bf22c34bd8b94f104ca6cfe2f37" label="Intellectual history">
@@ -117,8 +117,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="52.21831"/>
-        <viz:position x="427.87393" y="-5967.7373"/>
+        <viz:size value="15.593983"/>
+        <viz:position x="116.95753" y="-1479.6699"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_b439f9bbe0a4c866b54c7399f0d21e37" label="Migration">
@@ -128,8 +128,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="50.72317"/>
-        <viz:position x="-7693.118" y="3797.763"/>
+        <viz:size value="15.23448"/>
+        <viz:position x="-1835.7166" y="868.4223"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_a803e33b393cd3eb4d2b6748fa755213" label="Northern Europe">
@@ -139,8 +139,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="50.72317"/>
-        <viz:position x="4750.197" y="585.59106"/>
+        <viz:size value="15.23448"/>
+        <viz:position x="1156.2501" y="96.062935"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_3cd15f8f2940aff879df34df4e5c2cd1" label="History">
@@ -150,8 +150,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="49.228027"/>
-        <viz:position x="-3028.4546" y="-5867.2695"/>
+        <viz:size value="14.874976"/>
+        <viz:position x="-714.10876" y="-1455.5127"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_435cfc8caf35346fb7356efd6fc82119" label="Memory culture">
@@ -161,8 +161,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="49.228027"/>
-        <viz:position x="-4666.612" y="-434.4899"/>
+        <viz:size value="14.874976"/>
+        <viz:position x="-1108.0" y="-149.2132"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_468608f70c53a72e24597177edbc1d9c" label="Transnational history">
@@ -172,8 +172,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="49.228027"/>
-        <viz:position x="-1082.0333" y="-3877.3325"/>
+        <viz:size value="14.874976"/>
+        <viz:position x="-246.09622" y="-977.03687"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_39bdc290c46e87e3b346c1f032c01435" label="Nordic region">
@@ -183,8 +183,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="47.732887"/>
-        <viz:position x="3093.835" y="528.6748"/>
+        <viz:size value="14.515472"/>
+        <viz:position x="757.98175" y="82.37755"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_8f2cdef58e35bd1e97e161e9b1e86188" label="Western Europe">
@@ -194,8 +194,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="47.732887"/>
-        <viz:position x="5140.8975" y="-6147.8853"/>
+        <viz:size value="14.515472"/>
+        <viz:position x="1250.1932" y="-1522.9861"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_fd71b69529d9580ec793521631cee880" label="Comparative history">
@@ -205,8 +205,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="44.742603"/>
-        <viz:position x="-1276.1835" y="-6222.1914"/>
+        <viz:size value="13.796466"/>
+        <viz:position x="-292.77917" y="-1540.8528"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_ffe9704df3a7db31d8f4b704405cdb95" label="Cultural studies">
@@ -216,8 +216,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="41.752323"/>
-        <viz:position x="2123.3105" y="1967.342"/>
+        <viz:size value="13.07746"/>
+        <viz:position x="524.6214" y="428.30182"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_1662a3ed71e3856b14f0a730daa0da62" label="Postcolonial theory">
@@ -227,8 +227,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="41.752323"/>
-        <viz:position x="616.1" y="7933.701"/>
+        <viz:size value="13.07746"/>
+        <viz:position x="162.21605" y="1862.8992"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_8235a3c9a3a18512b92467e1d0705b27" label="Eastern Europe">
@@ -238,8 +238,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="40.257183"/>
-        <viz:position x="-5969.3906" y="544.6753"/>
+        <viz:size value="12.717957"/>
+        <viz:position x="-1421.2501" y="86.22483"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_9ecc9a3c7cac1ec8617407ec0927fab8" label="Entangled history">
@@ -249,8 +249,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="40.257183"/>
-        <viz:position x="3496.0107" y="-918.76337"/>
+        <viz:size value="12.717957"/>
+        <viz:position x="854.684" y="-265.65567"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_7abd814166450a9fd6993af0fe8b8f2b" label="European integration">
@@ -260,8 +260,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="38.76204"/>
-        <viz:position x="-7128.3555" y="-896.3258"/>
+        <viz:size value="12.358453"/>
+        <viz:position x="-1699.9207" y="-260.2606"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_cb8d2bb192393b9722816e8135a52981" label="Globalization">
@@ -271,8 +271,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="38.76204"/>
-        <viz:position x="-235.24016" y="3690.9946"/>
+        <viz:size value="12.358453"/>
+        <viz:position x="-42.486744" y="842.7501"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_18a9811c7e6cf99ac5a951b58238dfa1" label="Social movements">
@@ -282,8 +282,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="37.266895"/>
-        <viz:position x="1344.5454" y="6233.674"/>
+        <viz:size value="11.998949"/>
+        <viz:position x="337.3691" y="1454.1315"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_7c5bd03b45176fa36f00aa91090dc0aa" label="Literature">
@@ -293,8 +293,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="35.77176"/>
-        <viz:position x="5190.874" y="-3784.3193"/>
+        <viz:size value="11.639446"/>
+        <viz:position x="1262.21" y="-954.67206"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_29e3ce579ec0530aeab19c491cc80f67" label="Political science">
@@ -304,8 +304,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="35.77176"/>
-        <viz:position x="-8347.863" y="4415.44"/>
+        <viz:size value="11.639446"/>
+        <viz:position x="-1993.1483" y="1016.94135"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_848cc97d68d8bb64bc0f9dee20c76132" label="Global Europe">
@@ -315,8 +315,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="34.27662"/>
-        <viz:position x="-7054.65" y="218.49872"/>
+        <viz:size value="11.279943"/>
+        <viz:position x="-1682.1982" y="7.7964168"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_42a8a38213755645ad98d1e0fa47937f" label="Central Europe">
@@ -326,8 +326,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="32.78147"/>
-        <viz:position x="-2947.0076" y="-1189.8026"/>
+        <viz:size value="10.920439"/>
+        <viz:position x="-694.525" y="-330.82642"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_ca7b9475d1cd3d88316cb9fa6cb7fa67" label="Human rights">
@@ -337,8 +337,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="32.78147"/>
-        <viz:position x="-1188.7087" y="4133.95"/>
+        <viz:size value="10.920439"/>
+        <viz:position x="-271.74606" y="949.25775"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_e0ecf451e573603a2447ee22e2602221" label="Regional studies">
@@ -348,8 +348,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="32.78147"/>
-        <viz:position x="-2464.5962" y="3960.3005"/>
+        <viz:size value="10.920439"/>
+        <viz:position x="-578.5303" y="907.5041"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_358c6ab9f50a9604a9cee6f36a9cc352" label="History of scholarship">
@@ -359,8 +359,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="31.28633"/>
-        <viz:position x="-780.38007" y="-8797.991"/>
+        <viz:size value="10.560936"/>
+        <viz:position x="-173.56439" y="-2160.198"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_e7bcf4955ef4f910088aa596f88e645a" label="Modern culture">
@@ -370,8 +370,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="31.28633"/>
-        <viz:position x="2715.6536" y="-422.2844"/>
+        <viz:size value="10.560936"/>
+        <viz:position x="667.04895" y="-146.27841"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_acd8c6301a175d9c04a606500388fec8" label="Oral history">
@@ -381,8 +381,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="31.28633"/>
-        <viz:position x="-6340.671" y="4126.9185"/>
+        <viz:size value="10.560936"/>
+        <viz:position x="-1510.5237" y="947.567"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_3d8b9c817809317cc8831d5801eba0be" label="Postcolonialism">
@@ -392,8 +392,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="31.28633"/>
-        <viz:position x="2405.3699" y="7010.3184"/>
+        <viz:size value="10.560936"/>
+        <viz:position x="592.4419" y="1640.8739"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_09a0e3729670b03310bf940d3b5564cb" label="Poststructuralist theory">
@@ -403,8 +403,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="31.28633"/>
-        <viz:position x="940.2192" y="7287.253"/>
+        <viz:size value="10.560936"/>
+        <viz:position x="240.14977" y="1707.4622"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_855a57d69c9e6492f5fb7f0ee3787fea" label="State formation">
@@ -414,8 +414,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="31.28633"/>
-        <viz:position x="-6244.939" y="-372.82748"/>
+        <viz:size value="10.560936"/>
+        <viz:position x="-1487.5051" y="-134.38661"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_35726cf9554c50f103076ea00e45e2ed" label="Post WWII">
@@ -425,8 +425,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="29.79119"/>
-        <viz:position x="-3247.6687" y="-7693.0464"/>
+        <viz:size value="10.201433"/>
+        <viz:position x="-766.8183" y="-1894.5166"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_5b54e1047207c70867c235baab601501" label="19th century">
@@ -436,8 +436,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="28.29605"/>
-        <viz:position x="3759.5156" y="-2917.6628"/>
+        <viz:size value="9.841929"/>
+        <viz:position x="918.04315" y="-746.2865"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_56410f26015a58ec8dddcbe7f282a3a5" label="Climate &amp; environment">
@@ -447,8 +447,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="28.29605"/>
-        <viz:position x="5006.9565" y="3230.1506"/>
+        <viz:size value="9.841929"/>
+        <viz:position x="1217.9874" y="731.9412"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_20a9b1cfd0bbf9af6214b6f1ed41c6d3" label="Digitalization">
@@ -458,8 +458,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="28.29605"/>
-        <viz:position x="4088.659" y="-353.70526"/>
+        <viz:size value="9.841929"/>
+        <viz:position x="997.18494" y="-129.78873"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_dbce12e78a3a33f49bd8460d06e21ee8" label="International cooperation">
@@ -469,8 +469,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="28.29605"/>
-        <viz:position x="-508.31012" y="26.984694"/>
+        <viz:size value="9.841929"/>
+        <viz:position x="-108.14579" y="-38.252693"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_762d6c2ee163ee96ddefe038ef9c85c1" label="Peace &amp; conflict studies">
@@ -480,8 +480,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="28.29605"/>
-        <viz:position x="291.87793" y="6749.435"/>
+        <viz:size value="9.841929"/>
+        <viz:position x="84.2576" y="1578.1451"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_8dc15805ddf81848d345bfcc741cde9b" label="Propaganda">
@@ -491,8 +491,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="28.29605"/>
-        <viz:position x="-8244.942" y="-129.68378"/>
+        <viz:size value="9.841929"/>
+        <viz:position x="-1968.4014" y="-75.92326"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_ebde63767a5c1437e6f6dfce44a76122" label="Racialization">
@@ -502,8 +502,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="28.29605"/>
-        <viz:position x="3397.277" y="1460.5469"/>
+        <viz:size value="9.841929"/>
+        <viz:position x="830.9437" y="306.44406"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_aaa409c19dd7dd6871e6b930dcf27978" label="Southern Europe">
@@ -513,8 +513,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="28.29605"/>
-        <viz:position x="-4087.7344" y="-8181.6323"/>
+        <viz:size value="9.841929"/>
+        <viz:position x="-968.8102" y="-2011.9958"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_92424c8f569db998d94f8f9e389c2e33" label="Language studies">
@@ -524,8 +524,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="26.800909"/>
-        <viz:position x="-479.5928" y="-10114.402"/>
+        <viz:size value="9.482427"/>
+        <viz:position x="-101.240776" y="-2476.726"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_fdba31efe82351151506c514a0e63d2d" label="Microhistory">
@@ -535,8 +535,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="26.800909"/>
-        <viz:position x="2431.501" y="2734.8608"/>
+        <viz:size value="9.482427"/>
+        <viz:position x="598.7251" y="612.8499"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_f16cc584cec55f3f285086daaf0c2fdf" label="Religion">
@@ -546,8 +546,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="26.800909"/>
-        <viz:position x="-5892.7617" y="-4593.864"/>
+        <viz:size value="9.482427"/>
+        <viz:position x="-1402.825" y="-1149.3252"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_197a4253988619b22a45a77ea86ddcd8" label="Film and media studies">
@@ -557,8 +557,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="25.305765"/>
-        <viz:position x="8548.249" y="3635.001"/>
+        <viz:size value="9.122923"/>
+        <viz:position x="2069.4832" y="829.28656"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_48a53d750bd3d7e6382976dd2c1d65a8" label="Mediterraenean">
@@ -568,8 +568,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="25.305765"/>
-        <viz:position x="-5545.077" y="-7065.0713"/>
+        <viz:size value="9.122923"/>
+        <viz:position x="-1319.225" y="-1743.5214"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_8b1a891cb0024a05b7be205295ea6db4" label="Philology methods">
@@ -579,8 +579,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="25.305765"/>
-        <viz:position x="4815.9844" y="-10137.316"/>
+        <viz:size value="9.122923"/>
+        <viz:position x="1172.0686" y="-2482.2356"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_225ab6cdf797eae79495ff584a46dfd2" label="Philosophy">
@@ -590,8 +590,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="25.305765"/>
-        <viz:position x="-714.9557" y="-6939.6587"/>
+        <viz:size value="9.122923"/>
+        <viz:position x="-157.83325" y="-1713.3662"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_3d5f2683ed82dba62932e34f624f32f0" label="Theology">
@@ -601,8 +601,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="25.305765"/>
-        <viz:position x="3115.904" y="-6728.2065"/>
+        <viz:size value="9.122923"/>
+        <viz:position x="763.28827" y="-1662.523"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_192afb19bdcb826fd5d23cb6c133e54a" label="18th century">
@@ -612,8 +612,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="23.810625"/>
-        <viz:position x="4858.874" y="-7137.6816"/>
+        <viz:size value="8.76342"/>
+        <viz:position x="1182.3813" y="-1760.9803"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_1229cea519fb4daf1ebd71ce4bd9c0f0" label="British islands">
@@ -623,8 +623,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="23.810625"/>
-        <viz:position x="3745.427" y="-2178.309"/>
+        <viz:size value="8.76342"/>
+        <viz:position x="914.6556" y="-568.51056"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_d6023fdb83357dc59f3384315093af77" label="Empire">
@@ -634,8 +634,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="23.810625"/>
-        <viz:position x="-6712.7" y="-4594.514"/>
+        <viz:size value="8.76342"/>
+        <viz:position x="-1599.9773" y="-1149.4816"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_9bbf696a35f34f6a6c130d4f8360a2a3" label="Enlightenment">
@@ -645,8 +645,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="23.810625"/>
-        <viz:position x="376.0983" y="-9719.409"/>
+        <viz:size value="8.76342"/>
+        <viz:position x="104.508194" y="-2381.7507"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_e1f05425075e2300386940b049e89e59" label="Prosopography/biography">
@@ -656,8 +656,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="23.810625"/>
-        <viz:position x="4199.861" y="-3408.6255"/>
+        <viz:size value="8.76342"/>
+        <viz:position x="1023.9231" y="-864.33734"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_305da8b83584a5268e3fb9a1ab3e0051" label="Sexuality">
@@ -667,8 +667,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="23.810625"/>
-        <viz:position x="7838.7456" y="5349.946"/>
+        <viz:size value="8.76342"/>
+        <viz:position x="1898.8846" y="1241.6411"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_995b603f02d9a1d9bcc30de50535099e" label="Sociology">
@@ -678,8 +678,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="23.810625"/>
-        <viz:position x="-6262.4766" y="2583.2764"/>
+        <viz:size value="8.76342"/>
+        <viz:position x="-1491.722" y="576.4018"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_bddc4a5823066f10edac6dbbfa8bb75b" label="Transatlantic">
@@ -689,8 +689,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="23.810625"/>
-        <viz:position x="3219.5986" y="2294.8618"/>
+        <viz:size value="8.76342"/>
+        <viz:position x="788.2214" y="507.05316"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_92dd784743660005b4ef43b530650cd3" label="Caucasus">
@@ -700,8 +700,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="22.315481"/>
-        <viz:position x="-10410.268" y="-3931.1724"/>
+        <viz:size value="8.403915"/>
+        <viz:position x="-2489.0488" y="-989.98254"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_003c25c1804bd5bbb8c4151040e25751" label="Early modern">
@@ -711,8 +711,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="22.315481"/>
-        <viz:position x="277.51572" y="-10624.26"/>
+        <viz:size value="8.403915"/>
+        <viz:position x="80.80424" y="-2599.32"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_2d883d5e00eae726131fbafb7beeae25" label="Environmental studies">
@@ -722,8 +722,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="22.315481"/>
-        <viz:position x="4894.0986" y="2666.4463"/>
+        <viz:size value="8.403915"/>
+        <viz:position x="1190.851" y="596.3998"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_32134c6b32b7a5d943931f38e69f14ce" label="Gender studies">
@@ -733,8 +733,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="22.315481"/>
-        <viz:position x="7550.6274" y="2314.2637"/>
+        <viz:size value="8.403915"/>
+        <viz:position x="1829.6073" y="511.7183"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_2ac4a77444990f4794308193a939c6fb" label="Interwar period">
@@ -744,8 +744,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="22.315481"/>
-        <viz:position x="-4224.482" y="-6664.629"/>
+        <viz:size value="8.403915"/>
+        <viz:position x="-1001.69086" y="-1647.236"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_581bb7aa16906ddee915bd5ab86c90de" label="World wars">
@@ -755,8 +755,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="20.820341"/>
-        <viz:position x="-4696.506" y="-9349.309"/>
+        <viz:size value="8.044413"/>
+        <viz:position x="-1115.188" y="-2292.761"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_89f165284934c267ed9f634dc0e88d75" label="Anthropology">
@@ -766,8 +766,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="19.3252"/>
-        <viz:position x="-4498.094" y="7373.17"/>
+        <viz:size value="7.684909"/>
+        <viz:position x="-1067.4803" y="1728.1207"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_54aaa5bbe2673af8227f7c2e43aea8f3" label="Journalism">
@@ -777,8 +777,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="11"/>
         </attvalues>
-        <viz:size value="19.3252"/>
-        <viz:position x="7420.746" y="3433.1003"/>
+        <viz:size value="7.684909"/>
+        <viz:position x="1798.3776" y="780.74"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_ae74ea4e2e865ed3fd60c18a06e69c65" label="Modern">
@@ -788,8 +788,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="19.3252"/>
-        <viz:position x="2332.156" y="-5938.0137"/>
+        <viz:size value="7.684909"/>
+        <viz:position x="574.8378" y="-1472.523"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_26bbe060157af37be030416d98006268" label="Social network analysis">
@@ -799,8 +799,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="19.3252"/>
-        <viz:position x="7919.356" y="-1475.3394"/>
+        <viz:size value="7.684909"/>
+        <viz:position x="1918.2672" y="-399.48306"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_16731432de5b000accc6f87cc85e4e0f" label="Urban studies">
@@ -810,8 +810,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="19.3252"/>
-        <viz:position x="-656.45166" y="8504.08"/>
+        <viz:size value="7.684909"/>
+        <viz:position x="-143.76608" y="2000.0455"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_95679ab3c1f7c8f7fcc7131e166d2336" label="Visual culture">
@@ -821,8 +821,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="19.3252"/>
-        <viz:position x="6179.845" y="3759.2817"/>
+        <viz:size value="7.684909"/>
+        <viz:position x="1500.0059" y="859.16956"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_0891541699dd689f469e82107be02a4a" label="17th century">
@@ -832,8 +832,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="17.83006"/>
-        <viz:position x="2717.5813" y="-11008.32"/>
+        <viz:size value="7.325406"/>
+        <viz:position x="667.51245" y="-2691.6665"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_a31757afdf39d1399b1a6b2ae58dae90" label="Art history">
@@ -843,8 +843,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="17.83006"/>
-        <viz:position x="4137.029" y="-6752.6025"/>
+        <viz:size value="7.325406"/>
+        <viz:position x="1008.8153" y="-1668.3889"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_332f82e6e192fd8b40b419fee3b2ac1d" label="Balkan">
@@ -854,8 +854,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="17.83006"/>
-        <viz:position x="-6974.708" y="-7635.266"/>
+        <viz:size value="7.325406"/>
+        <viz:position x="-1662.9764" y="-1880.6234"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_df1c63d10b03a1ed332f962fa482aa3e" label="Baltics">
@@ -865,8 +865,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="17.83006"/>
-        <viz:position x="-8373.915" y="-843.5827"/>
+        <viz:size value="7.325406"/>
+        <viz:position x="-1999.4125" y="-247.57864"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_58a93102029aa1d9beeac01c8411e788" label="Communication studies">
@@ -876,8 +876,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="11"/>
         </attvalues>
-        <viz:size value="17.83006"/>
-        <viz:position x="8152.337" y="2976.8643"/>
+        <viz:size value="7.325406"/>
+        <viz:position x="1974.2871" y="671.03906"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_8cc3a6c4cb55ab770729174c1d557f80" label="Ethnography">
@@ -887,8 +887,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="17.83006"/>
-        <viz:position x="833.0657" y="9412.03"/>
+        <viz:size value="7.325406"/>
+        <viz:position x="214.38495" y="2218.36"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_c9a02f556ad49a7667e7f984c8e2ef52" label="Ethnology">
@@ -898,8 +898,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="17.83006"/>
-        <viz:position x="-2520.5732" y="9810.175"/>
+        <viz:size value="7.325406"/>
+        <viz:position x="-591.98987" y="2314.093"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_e112d94125f17429afaa3d63094ead2a" label="Interviews">
@@ -909,8 +909,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="17.83006"/>
-        <viz:position x="-8166.343" y="5210.528"/>
+        <viz:size value="7.325406"/>
+        <viz:position x="-1949.5023" y="1208.1184"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_913288cd53cad5bb1fa627df615c43de" label="Didactics">
@@ -920,8 +920,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="10"/>
         </attvalues>
-        <viz:size value="16.334919"/>
-        <viz:position x="-4718.488" y="-10026.959"/>
+        <viz:size value="6.9659033"/>
+        <viz:position x="-1120.4734" y="-2455.7004"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_416ddd003fb4c099d6efe4b259f369ca" label="Linguistics">
@@ -931,8 +931,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="10"/>
         </attvalues>
-        <viz:size value="16.334919"/>
-        <viz:position x="-6191.66" y="-8920.344"/>
+        <viz:size value="6.9659033"/>
+        <viz:position x="-1474.6943" y="-2189.6174"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_5749443f5a1f3ddf032837cf7eeed73e" label="Narratology">
@@ -942,8 +942,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="16.334919"/>
-        <viz:position x="11295.859" y="2903.087"/>
+        <viz:size value="6.9659033"/>
+        <viz:position x="2730.14" y="653.2995"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_ad4d34d1916520cbfecb4aa14b02d58c" label="Visual communication">
@@ -953,8 +953,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="16.334919"/>
-        <viz:position x="619.54956" y="10153.359"/>
+        <viz:size value="6.9659033"/>
+        <viz:position x="163.04549" y="2396.6108"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_cb7e5c2a0e46a8cd9de7ff7ed63db95e" label="Content analysis">
@@ -964,8 +964,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="14.839776"/>
-        <viz:position x="-11458.188" y="-177.79189"/>
+        <viz:size value="6.6063995"/>
+        <viz:position x="-2741.019" y="-87.49075"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_996dfb007ba9e5517e4d649e85d10108" label="Geography">
@@ -975,8 +975,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="3"/>
         </attvalues>
-        <viz:size value="14.839776"/>
-        <viz:position x="-3179.3662" y="8188.145"/>
+        <viz:size value="6.6063995"/>
+        <viz:position x="-750.3951" y="1924.0796"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_417cc8fe9c424615babf4a3eea132f53" label="History of knowledge">
@@ -986,8 +986,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="14.839776"/>
-        <viz:position x="6894.6216" y="-14953.6045"/>
+        <viz:size value="6.6063995"/>
+        <viz:position x="1671.8722" y="-3640.3013"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_3bc76f0943df5752981ae811db004c7f" label="Iberian Peninsula">
@@ -997,8 +997,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="10"/>
         </attvalues>
-        <viz:size value="14.839776"/>
-        <viz:position x="-6034.1006" y="-7857.422"/>
+        <viz:size value="6.6063995"/>
+        <viz:position x="-1436.8096" y="-1934.0403"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_303f38992ba51f4516fad0bb1b1be242" label="Information studies">
@@ -1008,8 +1008,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="14.839776"/>
-        <viz:position x="-3578.6162" y="9295.027"/>
+        <viz:size value="6.6063995"/>
+        <viz:position x="-846.39386" y="2190.227"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_2e51629a76793aa42cb1986730999107" label="Late modern">
@@ -1019,8 +1019,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="14.839776"/>
-        <viz:position x="8580.254" y="-4973.758"/>
+        <viz:size value="6.6063995"/>
+        <viz:position x="2077.1787" y="-1240.6698"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_55bcd22b3106f584271dbfd74bb64723" label="Marxism">
@@ -1030,8 +1030,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="3"/>
         </attvalues>
-        <viz:size value="14.839776"/>
-        <viz:position x="9023.843" y="2213.8438"/>
+        <viz:size value="6.6063995"/>
+        <viz:position x="2183.8386" y="487.57257"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_4fe5acbd2fae89a90ade02ba87205b0e" label="Migration studies">
@@ -1041,8 +1041,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="14.839776"/>
-        <viz:position x="-3819.6843" y="8688.072"/>
+        <viz:size value="6.6063995"/>
+        <viz:position x="-904.35815" y="2044.286"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_30dfb8893e3a5d98220fde39a6864e5a" label="Pedagogics">
@@ -1052,8 +1052,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="11"/>
         </attvalues>
-        <viz:size value="14.839776"/>
-        <viz:position x="8351.17" y="-805.80066"/>
+        <viz:size value="6.6063995"/>
+        <viz:position x="2022.0961" y="-238.49403"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_1b2072547afb75e49f33b016751ed360" label="Photography">
@@ -1063,8 +1063,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="14.839776"/>
-        <viz:position x="5103.292" y="8897.555"/>
+        <viz:size value="6.6063995"/>
+        <viz:position x="1241.1511" y="2094.6555"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_166748d0dcc88b63d71381625ae70835" label="Political theory">
@@ -1074,8 +1074,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="14.839776"/>
-        <viz:position x="-10938.936" y="8048.6436"/>
+        <viz:size value="6.6063995"/>
+        <viz:position x="-2616.1658" y="1890.5369"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_67693f70474b1f54d9a56e5a0e8f3c24" label="Practice theory">
@@ -1085,8 +1085,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="14.839776"/>
-        <viz:position x="-4126.9463" y="10183.457"/>
+        <viz:size value="6.6063995"/>
+        <viz:position x="-978.2386" y="2403.848"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="name_07df69658eb2765e9c9d76bcebc8130c" label="Agnes Malmgren">
@@ -1096,8 +1096,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="3128.344" y="7886.1616"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="766.2794" y="1851.4684"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_d87bd7bf02d79a94aea2cc60f5a5292e" label="Alexander Bareis">
@@ -1107,8 +1107,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="5403.384" y="-1330.8511"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1313.3075" y="-364.74118"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_924bdff982d9a163074d9300164d6035" label="Anders Marklund">
@@ -1118,8 +1118,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="1202.0247" y="-2795.834"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="303.1003" y="-716.99304"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_460d35d77254cc2235a335698ffdcc43" label="Anders Melin">
@@ -1129,8 +1129,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="799.73267" y="-7198.203"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="206.3701" y="-1775.5326"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_955b643e0192bb182a5318692c48c9d5" label="Ann-Sofie Klareld">
@@ -1140,8 +1140,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-836.4127" y="-1399.5735"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-187.03731" y="-381.26535"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_ded8e8f9f863693581e57a450085356d" label="Anna Estera Mrozewicz">
@@ -1151,8 +1151,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="5139.024" y="5210.8306"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1249.7427" y="1208.1912"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_e985cbb83c9145d15ad8420690238ab5" label="Anna Sandberg">
@@ -1162,8 +1162,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="2454.243" y="-3645.962"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="604.19336" y="-921.40436"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_b47303e9a82ddf89e8131043d0135dfb" label="Anna Vind">
@@ -1173,8 +1173,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="3272.2117" y="-8829.339"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="800.8721" y="-2167.7356"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_250ff3c3f8ad27a5596ba4d8148fce7f" label="Barbara Ann Barrow">
@@ -1184,8 +1184,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="6108.078" y="5715.7217"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1482.7496" y="1329.5911"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_a9bffa1b55d4e210bd82e1d22247efdc" label="Barbara Törnquist-Plewa">
@@ -1195,8 +1195,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-6356.584" y="6092.7036"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1514.35" y="1420.2356"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_25e633fff688d3fd2e3c24958b22253f" label="Bo Petersson">
@@ -1206,8 +1206,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-10562.898" y="-825.1868"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2525.7485" y="-243.1554"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_311cf78429e66847c3b4821eeb0a0ae6" label="Christian Høgel">
@@ -1217,8 +1217,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-2590.0127" y="-10447.139"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-608.6864" y="-2556.7317"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_59faf363e4ccf4b06ce594d3aeb9956e" label="Christine Svinth-Værge põder">
@@ -1228,8 +1228,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-54.301563" y="-7757.66"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1.0195293" y="-1910.0527"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_dda85c2d30d70203193eceb840db4289" label="Cristine Sarrimo">
@@ -1239,8 +1239,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="7055.6133" y="877.41907"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1710.5823" y="166.2323"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_222cf9c1387797d00efa51d91d43e018" label="Daniel Christian Maier">
@@ -1250,8 +1250,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-5508.1753" y="-5820.2397"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1310.352" y="-1444.2045"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_2fe5166a36611db37f9792ab99acf267" label="Dennis Meyhoff Brink">
@@ -1261,8 +1261,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="7145.816" y="6.341009"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1732.2712" y="-43.21642"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_d5ae9da53f60f26bad86abf1083176ec" label="Denys Kiryukhin">
@@ -1272,8 +1272,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-11464.747" y="1476.4747"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2742.596" y="310.2739"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_a1e9c81a078fe2c55e379cf4b0a49be1" label="Derek Stanford Hutcheson">
@@ -1283,8 +1283,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-10358.1045" y="-2216.5007"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2476.5063" y="-577.69366"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_6a65cf2f745d889ae44933652984ff25" label="Dino Knudsen">
@@ -1294,8 +1294,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-4180.939" y="-4853.725"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-991.22107" y="-1211.8082"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_ceae75c0d84eeb094fd26b49969e73e7" label="Elisabet Göransson">
@@ -1305,8 +1305,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="4964.376" y="-9019.783"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1207.749" y="-2213.5273"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_0f1354576134365728f8b1765adc5cce" label="Elsa Hedling">
@@ -1316,8 +1316,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-1729.7456" y="6635.342"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-401.83716" y="1550.7117"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_71df5ec1e76521af5c7fc9689c9caef8" label="Emil Eiby Seidenfaden">
@@ -1327,8 +1327,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="2640.311" y="-4730.654"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="648.933" y="-1182.2161"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_a9c6294ac222d466738420bd8a024392" label="Emil Hilton Saggau">
@@ -1338,8 +1338,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-2885.9502" y="-4451.5264"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-679.8439" y="-1115.1005"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_45e38e3845eed3530b98acba486d9119" label="Eva Novrup Redvall">
@@ -1349,8 +1349,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="11"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="8737.208" y="582.5592"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2114.918" y="95.33393"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_8c2d7ef6fc01064261d5bfc49ea7ff6a" label="Fanny Christou">
@@ -1360,8 +1360,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-11130.769" y="2761.8518"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2662.2915" y="619.33984"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_51c1a2e6386f39c5b1f11529d7302a58" label="Haakon A. Ikonomou">
@@ -1371,8 +1371,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="2077.2786" y="4269.4326"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="513.5531" y="981.83417"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_55baccbbd0a0d94d773c5e8de1cae4dc" label="Hans Olsson">
@@ -1382,8 +1382,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="3418.5073" y="4748.9644"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="836.0485" y="1097.1365"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_24e21c8747825b9d464165fbc7bb16d7" label="Isobel Squire">
@@ -1393,8 +1393,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="5472.096" y="6846.367"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1329.8292" y="1601.4523"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_b3fd937b3c66ccb2e5856a1cecb93af7" label="Jacob Lind">
@@ -1404,8 +1404,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-5422.211" y="5655.683"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1289.682" y="1315.1549"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_4f44fd5e861992dbb076df97a445cb9e" label="Jan Loop">
@@ -1415,8 +1415,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="1748.3589" y="-10266.143"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="434.46512" y="-2513.2117"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_14b4fb45529299fb053a8c6aeab3daae" label="Johan Östling">
@@ -1426,8 +1426,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="2034.0559" y="-8585.564"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="503.16034" y="-2109.1204"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_9e71fc2f495ec36b3144bac989483d90" label="Johanna Rivano Eckerdal">
@@ -1437,8 +1437,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-6984.3105" y="8626.981"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1665.2854" y="2029.5968"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_c6b8241ede8206b9ae3301287948337d" label="Johanne Stubbe Teglbjærg Kristensen">
@@ -1448,8 +1448,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="9764.104" y="1145.0912"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2361.8328" y="230.59346"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_9fa9f8bc48b1258d1450843f4e817322" label="Jonna Pettersson">
@@ -1459,8 +1459,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-10241.148" y="4829.5674"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2448.3845" y="1116.5173"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_ab1de8959a2701c460b45d566e385297" label="Joyce Kling">
@@ -1470,8 +1470,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="792.1279" y="-4354.025"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="204.54156" y="-1091.6565"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_3b4379a45935fc08006295426d05eeae" label="Juliane Engelhardt">
@@ -1481,8 +1481,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="896.5775" y="-3873.1133"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="229.65623" y="-976.02234"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_3b007b744e236a2e671631dcc26f62a9" label="Jytte Lyngvig">
@@ -1492,8 +1492,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="2612.4023" y="-9694.363"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="642.2224" y="-2375.7285"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_bf810eae11826c586a543efd5d45cad2" label="Jørn Boisen">
@@ -1503,8 +1503,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-2151.4814" y="-6970.6826"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-503.24255" y="-1720.8258"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_c36f368547cc1b1e0d08113b58c8d077" label="Karina Vamling">
@@ -1514,8 +1514,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-6125.9014" y="-1892.7222"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1458.8828" y="-499.84183"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_d63d2cfa13ce9c4a987b295efd1e22d6" label="Katarina Lundin">
@@ -1525,8 +1525,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="10"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-3298.7666" y="-11033.812"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-779.1047" y="-2697.796"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_cd5c034ddff0647261c714e9dcc2e4d9" label="Katrine Gotfredsen">
@@ -1536,8 +1536,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-4744.447" y="6437.701"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1126.7152" y="1503.1895"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_06e4bc72505795f978ea8dc82c7e6ced" label="Katrine Stevnhøj">
@@ -1547,8 +1547,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-2517.571" y="6153.082"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-591.268" y="1434.7534"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_4513bee762d6beca3caf4c1694e2950c" label="Kirsten Thisted">
@@ -1558,8 +1558,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="358.09677" y="5290.758"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="100.17976" y="1227.4095"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_c5215fe653e4fb90a6a3065059091bb4" label="Laura Luise Schultz">
@@ -1569,8 +1569,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-7050.2285" y="6694.1274"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1681.1351" y="1564.8466"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_881008dfd8cb5cb81cb0fcaee33cce3a" label="Linda Susan Austin">
@@ -1580,8 +1580,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="6166.0127" y="7517.643"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1496.6798" y="1762.859"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_bcd2e595d9ad22f95296781e700164a0" label="Magnus Nilsson">
@@ -1591,8 +1591,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="3"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="6473.8076" y="-3827.7493"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1570.6885" y="-965.1147"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_416d41bd69c3ae1731fc0799c3237a57" label="Margareta Melin">
@@ -1602,8 +1602,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="2943.5464" y="8418.024"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="721.8452" y="1979.3536"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_7fa0a2e0828c5da4f0832cc00183ce92" label="Maria Persson">
@@ -1613,8 +1613,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="10"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-7327.0205" y="-5452.8516"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1747.6892" y="-1355.8668"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_38f1b8fd0296a047c2a84683d7be0d50" label="Mia Krokstäde">
@@ -1624,8 +1624,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="1811.6842" y="5087.5938"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="449.69156" y="1178.5592"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_d1f7491ac57278281d3785ff3bd5fd5c" label="Michael Bossetta">
@@ -1635,8 +1635,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="11"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="6701.4395" y="-2917.5115"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1625.422" y="-746.25006"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_149612c02cd62059f6b05990bdf943cd" label="Michel Vincent Anderlini">
@@ -1646,8 +1646,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-10404.609" y="3753.133"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2487.6882" y="857.69116"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_ad867075af4f04b09ca91bf44f380a12" label="Monika Class">
@@ -1657,8 +1657,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="4846.435" y="-1874.148"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1179.3904" y="-495.3757"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_94b936bb76f5eec85ef64ed9643dbf4c" label="Morten Rasmussen">
@@ -1668,8 +1668,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-3648.7708" y="-3160.7466"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-863.2624" y="-804.7354"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_344e37c359b3d80b508291fb9dccb790" label="Niels Valdemar Vinding">
@@ -1679,8 +1679,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-1650.2461" y="-2774.0613"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-382.72168" y="-711.7578"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_d515ad0b6913e4f4ffd3816f1a19783e" label="Per Anders Rudling">
@@ -1690,8 +1690,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-4702.5137" y="-3658.059"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1116.6324" y="-924.31305"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_60708f5a26ad64a092c987f3230f4e4b" label="Petar Mitric">
@@ -1701,8 +1701,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-5328.0996" y="-2639.98"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1267.0532" y="-679.51825"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_e7eeb99b442610818b248e2899734011" label="Petek Onur">
@@ -1712,8 +1712,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-10316.989" y="1992.1189"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2466.62" y="434.25934"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_952e7e17b9102e184cf4a9265f27b05b" label="Rebecka Lettevall">
@@ -1723,8 +1723,8 @@
           <attvalue for="attr_1_2" value="Malmo University"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="542.92395" y="-3409.9875"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="144.62103" y="-864.66486"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="name_71b0475ccb0ac2b34cab4f52dc1e8a81" label="Rosanna Farbøl">
@@ -1734,8 +1734,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="1097.5779" y="-1458.7535"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="277.98633" y="-395.49506"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_0a629ef6118fc02d03d924e98c4fa0a0" label="Sara Kärrholm">
@@ -1745,8 +1745,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="8260.355" y="6163.252"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2000.2599" y="1437.1987"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_deb82291894957b71096c06164672afd" label="Sara Taglialatela">
@@ -1756,8 +1756,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="1"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="7232.4443" y="11034.443"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1753.1008" y="2608.4656"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_6baf16d1a389c38f5dcd521c879509fd" label="Simon Cecchin Birk">
@@ -1767,8 +1767,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-7967.013" y="-3469.916"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1901.574" y="-879.0745"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_2e56cd47c5066fcca4b57790e823cebc" label="Simon Stjernholm">
@@ -1778,8 +1778,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-9426.663" y="2567.6194"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2252.5432" y="572.6371"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_0d6e5805bb89fe996a9ade8e74dd7333" label="Talieh Alsadat Mirsalehi">
@@ -1789,8 +1789,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-7786.7285" y="7871.397"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1858.2249" y="1847.9183"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_5210b850cda11e2adcf8634028786107" label="Tea Sindbæk Andersen">
@@ -1800,8 +1800,8 @@
           <attvalue for="attr_1_2" value="University of Copenhagen"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-4075.3145" y="-4099.627"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-965.8238" y="-1030.487"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="name_1f65301d545911fb23c09fae0d7dde54" label="Tornike Metreveli">
@@ -1811,8 +1811,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-11321.246" y="-1502.4167"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2708.0916" y="-405.99377"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="name_fb52d85dbf53d93694617e8a07861c27" label="William Kutz">
@@ -1822,8 +1822,8 @@
           <attvalue for="attr_1_2" value="Lund University"/>
           <attvalue for="modularity_class" value="3"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-1200.1113" y="5670.185"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-274.4878" y="1318.642"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="keyword_1867c41344d6e9e46b24a7befd7c3476" label="Aesthetic analysis">
@@ -1833,8 +1833,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-10694.898" y="6445.644"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2557.4875" y="1505.0992"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_e3a57a32e28af21565873fddf1783537" label="Antiquity">
@@ -1844,8 +1844,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-3411.0496" y="-17032.191"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-806.10284" y="-4140.093"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_bde5906c30c740b9c4b63234a9092a93" label="Antiquity and its reception">
@@ -1855,8 +1855,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-9912.65" y="-12590.689"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2369.398" y="-3072.1436"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_57fb0d8ae1cca15990f4730a7f9b9cf1" label="Archeology">
@@ -1866,8 +1866,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-11203.451" y="-12091.42"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2679.768" y="-2952.0955"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_42832031dbe65b8acfb9402866d1af88" label="Architechture">
@@ -1877,8 +1877,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="13932.273" y="-3020.4446"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3364.0596" y="-771.0001"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_051581db149ddf4d9a4f20f8ead24e88" label="Argumentation analysis">
@@ -1888,8 +1888,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="14378.978" y="-10499.088"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3471.4685" y="-2569.223"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_0a4b47e97dcce2737df0f0fe6063463a" label="Art and culture">
@@ -1899,8 +1899,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-15623.592" y="6156.1167"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3742.5806" y="1435.483"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_a74e64b7e5a931c91cfd56963dbd04a8" label="Auto fiction">
@@ -1910,8 +1910,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="17750.518" y="-3423.0955"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4282.1475" y="-867.8166"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_4d72f171b156a45a3ae61d53ec079da3" label="Borders/boundaries">
@@ -1921,8 +1921,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-16142.736" y="10957.089"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3867.4077" y="2589.866"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_e70e530874e8f926716dd678908a3ec2" label="Children and young people">
@@ -1932,8 +1932,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="11"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="13209.996" y="7998.0283"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3190.3896" y="1878.3665"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_a879e0261aa2032983e9b10e045870af" label="Church and liturgy">
@@ -1943,8 +1943,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="20119.674" y="890.7929"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4851.8057" y="169.44801"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_a2f2ed4f8ebc2cbb4c21a29dc40ab61d" label="Class">
@@ -1954,8 +1954,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="3"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="13992.088" y="-5942.0645"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3378.442" y="-1473.497"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_0711a3548858a11f19c4d27fff6f2abb" label="Close reading">
@@ -1965,8 +1965,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="11266.29" y="6636.259"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2723.03" y="1550.9321"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_b714cd4f127489402dbe8e6d5f8846c9" label="Cold war">
@@ -1976,8 +1976,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-11362.809" y="-10955.762"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2718.085" y="-2679.029"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_7f3af83ea553d5205ef503c6de571d4a" label="Communication for development and social change">
@@ -1987,8 +1987,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="8388.774" y="10231.357"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2031.138" y="2415.3655"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_7efb44a668f09fb4c2cb467ba541ca1b" label="Communist and americanization">
@@ -1998,8 +1998,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-12978.634" y="-10611.92"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3106.6064" y="-2596.353"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_574162c4c94608bb27a98f4de16a3159" label="Comparative literature">
@@ -2009,8 +2009,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="9879.685" y="-2584.5962"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2389.6238" y="-666.20135"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_ac76def0831a12b8526bf83b16e4873a" label="Comparative political science">
@@ -2020,8 +2020,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-14881.367" y="-2787.4482"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3564.1145" y="-714.9767"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_af64bccc26a099331701ec32a7dfcb78" label="Compliance studies">
@@ -2031,8 +2031,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-15152.702" y="3320.624"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3629.3562" y="753.6953"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_f90188deb8ceef38c547eef22cf25b83" label="Computational methods">
@@ -2042,8 +2042,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="11"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="14204.579" y="-2352.9841"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3429.535" y="-610.5108"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_2508eba46dad86c44793925684cfc021" label="Contextual political analysis">
@@ -2053,8 +2053,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-16449.717" y="830.42786"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3941.2207" y="154.93338"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_ec7f26f4ba15ce74e5d7e831f2c9091e" label="Corpus linguistics">
@@ -2064,8 +2064,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="10"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-13425.698" y="-7380.6646"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3214.1023" y="-1819.405"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_1a177a7c953596ab56110fd04af61c44" label="Creative writing">
@@ -2075,8 +2075,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="17106.793" y="5877.955"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4127.365" y="1368.5997"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_26e7f3cab7e46c9d18d6494ddf777c9d" label="Creativity theory">
@@ -2086,8 +2086,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="11"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="13394.445" y="6702.17"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3234.74" y="1566.7803"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_0a632016ea7f0f74dfb902bb6712a075" label="Crime and punishment">
@@ -2097,8 +2097,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="9417.93" y="8396.952"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2278.596" y="1974.2869"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_8a09af326971400ec51498ffd284004d" label="Critical border studies">
@@ -2108,8 +2108,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="3"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-3174.0361" y="13656.924"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-749.1135" y="3239.035"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_1f9b20047c4710f5e266ced01337758f" label="Critical editing">
@@ -2119,8 +2119,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="11391.178" y="-14729.209"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2753.0588" y="-3586.3457"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_c2313af817e3f64fa7fadbd4e77d44ae" label="Critical phenomenology">
@@ -2130,8 +2130,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="18471.486" y="315.3569"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4455.503" y="31.085749"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_17bd498c2757a4ff3aee4cff502d8ade" label="Critical theory">
@@ -2141,8 +2141,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="16044.889" y="-213.24675"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3872.0332" y="-96.01579"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_aace61bff1a9577d69fa437f532ceb22" label="Cultural analysis">
@@ -2152,8 +2152,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-15677.577" y="6916.3213"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3755.5613" y="1618.2726"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_a6e1737e97baea51e89fdf8d4875144f" label="Cultural institutions">
@@ -2163,8 +2163,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-5187.1357" y="13267.414"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1233.1588" y="3145.3782"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_50148e9f70c22c42d65a4e4e071e4e3e" label="Cultural policy">
@@ -2174,8 +2174,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-7236.872" y="13233.81"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1726.0132" y="3137.298"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_c18b70a2092e68816df8a4402a598cd5" label="Cultural sociology">
@@ -2185,8 +2185,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="3"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="14648.535" y="-6504.304"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3536.2832" y="-1608.6862"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_744dfb3df702c90bca2ac25695fca256" label="Culture and democracy">
@@ -2196,8 +2196,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-5870.1367" y="13674.71"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1397.3848" y="3243.3115"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_833981bd572de827ed929a37c96271c1" label="Decolonization">
@@ -2207,8 +2207,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-12690.6045" y="-10872.217"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3037.3506" y="-2658.941"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_106b793240b4aa3822dfb77597dd6113" label="Deconstruction">
@@ -2218,8 +2218,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-16793.91" y="10343.646"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-4023.9812" y="2442.365"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_09775ee2f13677b36a85834d4798e375" label="Democracy">
@@ -2229,8 +2229,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-13411.554" y="10737.663"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3210.7012" y="2537.1055"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_509a46d22bdfd74280377d79fcbdca80" label="Dialectical theology">
@@ -2240,8 +2240,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="2673.278" y="-16238.181"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="656.85986" y="-3949.1743"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_38648f8877383d13af2fa6722619dd96" label="Distant reading">
@@ -2251,8 +2251,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="16006.493" y="-1011.6613"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3862.801" y="-287.99277"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_db3cede5ea1683347c8af51652873cf2" label="Eastern and central european studies">
@@ -2262,8 +2262,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="9931.309" y="11806.502"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2402.0369" y="2794.1052"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_aa40d354134de747f9ded033772c7c3f" label="Epistemic communities">
@@ -2273,8 +2273,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-15952.264" y="3939.8806"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3821.6091" y="902.5942"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_9472bb6f67e96e157fc6e53e05cae5ee" label="Ethnographic methods">
@@ -2284,8 +2284,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="7479.658" y="12246.822"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1812.5428" y="2899.9792"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_a16a29bcc6bc963d22e9eb193ed71788" label="Europeanization">
@@ -2295,8 +2295,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-16930.264" y="3441.0503"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-4056.767" y="782.65155"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_5ec96b0dc99c7640059767025d403866" label="Feminist theory">
@@ -2306,8 +2306,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="217.21526" y="14331.656"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="66.30513" y="3401.273"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_692a6937a86c0060187e1fd7cc7fa81c" label="Systemic-functional linguistics">
@@ -2317,8 +2317,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="10"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-5544.068" y="-16255.73"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1318.9823" y="-3953.3943"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_7b52ea30235795837c183dbf7b859134" label="Geopolitics">
@@ -2328,8 +2328,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="3"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-1236.551" y="13747.782"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-283.24963" y="3260.8816"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_14b572724ad183ca0a09f65086b11c21" label="German literature">
@@ -2339,8 +2339,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="19133.047" y="-5718.55"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4614.573" y="-1419.7533"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_555bf8344ca0caf09b42f55e185526d8" label="Health">
@@ -2350,8 +2350,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-10964.639" y="13654.803"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2622.346" y="3238.525"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_b34eeda98ea662a042b6531bc2f367b0" label="Hermeneutics">
@@ -2361,8 +2361,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="957.186" y="-15625.961"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="244.2294" y="-3801.9678"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_d8e3dae1418e7cdd12f91702b45db009" label="Historical methodology">
@@ -2372,8 +2372,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-5909.7695" y="-8511.574"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1406.9144" y="-2091.3296"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_1bea4e774f416760332c0acf889b48b6" label="History of european integration">
@@ -2383,8 +2383,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="6348.9897" y="-13815.33"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1540.6763" y="-3366.6057"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_1536ae704f0a1ee09182ca003436c6b8" label="History of memory theories">
@@ -2394,8 +2394,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="1"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="10571.413" y="10657.923"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2555.9485" y="2517.9321"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_007e1479fef902904ec3348f57eb8c6d" label="History of religion">
@@ -2405,8 +2405,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-1469.5862" y="-16579.99"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-339.2824" y="-4031.3618"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_0af6d6dd36cb579f70dfdf721c16b935" label="History of rhetoric">
@@ -2416,8 +2416,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="1"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="10457.005" y="10968.826"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2528.4392" y="2592.688"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_ea65f7eb2fe68a3fd2b63dbf6b1572e2" label="History of universities">
@@ -2427,8 +2427,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="7618.1665" y="-14324.357"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1845.8469" y="-3489.0002"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_67d710ac25d93e767735695affe1b2b5" label="Holocaust">
@@ -2438,8 +2438,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-13954.914" y="-6032.5234"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3341.3508" y="-1495.2476"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_13e8125d8a725025ff413f0af784c806" label="Instructions and feedback in sports studies">
@@ -2449,8 +2449,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="10"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-6649.05" y="-17341.523"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1584.6726" y="-4214.4707"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_ce8343530fd195c87f147546aee75c9c" label="Interplay of rhetoric">
@@ -2460,8 +2460,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="1"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="10714.945" y="9539.632"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2590.4604" y="2249.0415"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_63b607dc1b51e76f71048a644e7382d0" label="Islam in Europe">
@@ -2471,8 +2471,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="433.39395" y="-16723.469"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="118.2848" y="-4065.861"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_bab4ac375adad13f5693f24fceab7903" label="Italy">
@@ -2482,8 +2482,8 @@
           <attvalue for="type" value="Geographical Areas"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-14966.787" y="-4764.4785"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3584.6536" y="-1190.3491"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="keyword_62fd473688fbc7b8609fb93cb4ce93b4" label="Christian-Muslim-Jewish relations">
@@ -2493,8 +2493,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-957.03076" y="-17098.924"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-216.03964" y="-4156.138"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_9bef91aa59d15bb898f4e00dc145bc56" label="Journalism culture">
@@ -2504,8 +2504,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="2597.4604" y="13224.957"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="638.62964" y="3135.1697"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_4d3aab0c29ef5c416a3c6fe12c451883" label="Language and identity">
@@ -2515,8 +2515,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="10"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-13347.275" y="-7831.9395"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3195.2456" y="-1927.9131"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_e21783ce66841952bc41d4ae6ddc09c5" label="Legal geography">
@@ -2526,8 +2526,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-14509.706" y="9739.844"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3474.7493" y="2297.1821"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_b37bc70b60a38862f3f6b37f7636b3ef" label="Legal history">
@@ -2537,8 +2537,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-12525.607" y="-9312.082"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2997.6775" y="-2283.81"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_732dad16e33b1f7ad93a915a373f1271" label="Legal philosophy">
@@ -2548,8 +2548,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-13024.6455" y="8899.967"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3117.67" y="2095.2356"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_40b81860354633697e974a1b32c2fe9e" label="Legitimacy studies">
@@ -2559,8 +2559,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-16153.912" y="-106.59597"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3870.095" y="-70.37186"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_4fe770a1ae9a5f46d11fd4396e255f09" label="Librarian's social role">
@@ -2570,8 +2570,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-5570.024" y="14096.432"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1325.2234" y="3344.7136"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_915cd6ac50f3bd3bb451a991afb0d81c" label="Lifestyle and existence">
@@ -2581,8 +2581,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="16870.287" y="989.9889"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4070.498" y="193.29945"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_b09380c8b813dd85ee8f4f51f44875ce" label="Linguistics analyses">
@@ -2592,8 +2592,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="10"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-8668.256" y="-15772.359"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2070.186" y="-3837.169"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_c24a7835fee776c4dc95c6bd03d4f167" label="Literary analyses">
@@ -2603,8 +2603,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="11170.832" y="7209.053"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2700.0774" y="1688.6593"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_ccc434ad2a1721f0b690df8efd4bda0a" label="Literary studies">
@@ -2614,8 +2614,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="16451.773" y="5282.5273"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3969.8674" y="1225.4305"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_31420f10f90ea1b0c98807576bf35683" label="Literary theory">
@@ -2625,8 +2625,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="17631.078" y="-4354.2266"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4253.4287" y="-1091.705"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_b787de21729509f10b1b41f5b41a286f" label="Macrohistory">
@@ -2636,8 +2636,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="16716.559" y="-657.6962"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4033.5344" y="-202.88266"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_9acda7ef86e5303338585e3bc4d1c50d" label="Manuscript studies">
@@ -2647,8 +2647,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="9383.533" y="-16090.473"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2270.3254" y="-3913.6584"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_52816dd4824ef6d2569f977e03ceff13" label="Socio-material theory">
@@ -2658,8 +2658,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-8001.3164" y="13868.3545"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1909.822" y="3289.873"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_bcaef162ee84ba3623a446653d41d940" label="Mediatization theory">
@@ -2669,8 +2669,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-1054.3176" y="15135.312"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-239.43205" y="3594.51"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_5166479d629efb4e33ea4bc8a9b68561" label="Medicine humanities">
@@ -2680,8 +2680,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-11576.125" y="13027.832"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2769.3765" y="3087.7712"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_1a6d49b1b51b30ec475fabd023b2089c" label="Medieval time">
@@ -2691,8 +2691,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="11021.433" y="-16347.326"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2664.1545" y="-3975.4185"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_773c0eaae958dde52eb68fae6b70a7e1" label="Memory studies">
@@ -2702,8 +2702,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-5279.675" y="7756.412"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1255.4095" y="1820.2705"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_689c7de999dbd79ef9a3ef5e4c41e3e3" label="Metafiction">
@@ -2713,8 +2713,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="17662.73" y="-5306.1143"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4261.039" y="-1320.5842"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_65228681b6999819712a9988be99f43c" label="Middle ages">
@@ -2724,8 +2724,8 @@
           <attvalue for="type" value="Time Periods"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-2646.9922" y="-17525.178"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-622.38696" y="-4258.63"/>
         <viz:color r="220" g="207" b="0"/>
       </node>
       <node id="keyword_94930c2de9522785a5b06858fd9d6970" label="Multimodal analyses">
@@ -2735,8 +2735,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-13588.201" y="7146.264"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3253.1755" y="1673.5618"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_9ae561b2f4447a4411c1c4cc29e6333f" label="Mundane transcendental approaches">
@@ -2746,8 +2746,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="19877.043" y="-335.1433"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4793.466" y="-125.32555"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_8b573b4510c1a532f35f11f194252ec9" label="Musicology">
@@ -2757,8 +2757,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="6157.4653" y="-16673.75"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1494.6246" y="-4053.9062"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_b766b66d781ad0052023a5a16ab0fe2b" label="Netnography">
@@ -2768,8 +2768,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="9760.459" y="8340.645"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2360.9563" y="1960.7478"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_73a3445a61215798d37ed98b3a8854d1" label="New historicism">
@@ -2779,8 +2779,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="16894.557" y="6638.018"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4076.3335" y="1551.3551"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_621f3b1d369ce04738009de6c816eb54" label="Nissology">
@@ -2790,8 +2790,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="8133.7783" y="10529.772"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1969.8247" y="2487.1187"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_a2889e0a70a94d025dc86ac258b9d5f6" label="Nobel prize in literature">
@@ -2801,8 +2801,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="16670.066" y="-4787.1074"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4022.3555" y="-1195.7902"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_f47e565728e6536c3f0687d1421a7ec4" label="Normative democracy theory">
@@ -2812,8 +2812,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-15175.934" y="2136.2793"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3634.9424" y="468.9224"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_ce4b9b295e42404cbda293ba5f8d08ab" label="Normative method">
@@ -2823,8 +2823,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-15537.479" y="8793.481"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3721.875" y="2069.6313"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_b4120c940fffff695d925df1eaefd399" label="Observations">
@@ -2834,8 +2834,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-14809.301" y="5494.281"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3546.7861" y="1276.3462"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_65dc62dbac57113112b87eeb13c9f78b" label="Ordinary language philosophy">
@@ -2845,8 +2845,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="3"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="14064.115" y="-7046.708"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3395.7607" y="-1739.106"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_f93bec28cb767a3a2ec5b7f4cf798139" label="Organizational theory">
@@ -2856,8 +2856,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="1450.5514" y="14738.76"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="362.858" y="3499.16"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_a3fdd46395f81a71d61903f458b0cd75" label="Palaeography and book history">
@@ -2867,8 +2867,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="9775.966" y="-15192.745"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2364.6848" y="-3697.802"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_5c0d32b2d5067ac40cf27cbce29a8235" label="Phenomenology">
@@ -2878,8 +2878,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-11552.404" y="6003.697"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2763.6729" y="1398.8341"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_f987144428af48c9da6f53087840bfdd" label="Policy studies">
@@ -2889,8 +2889,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="11"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="14689.108" y="6948.5444"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3546.0388" y="1626.0205"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_cb169b65ce44b6a77191f280a750d011" label="Policy transfer studies">
@@ -2900,8 +2900,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-16854.084" y="2920.2388"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-4038.45" y="657.42365"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_b32fa0b40e1fb889d2cc65def7d46d6b" label="Political campaigning">
@@ -2911,8 +2911,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="11"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="14830.113" y="-1700.1598"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3579.943" y="-453.54062"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_86a4b4d34fd05c27329b062a5c688116" label="Political community">
@@ -2922,8 +2922,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-15487.123" y="10091.119"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3709.767" y="2381.6455"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_3425f256ed018f3c5fcf69f3cdf69da3" label="Political economy">
@@ -2933,8 +2933,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="3066.2695" y="13921.612"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="751.35376" y="3302.6787"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_b0ecdb065871fe15f6cd2d33b9721602" label="Political geography">
@@ -2944,8 +2944,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-13916.39" y="10207.528"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3332.088" y="2409.6357"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_dc4dd8b6d48adbe24f284d996d893dc1" label="Political history">
@@ -2955,8 +2955,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-10251.458" y="-11239.524"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2450.8633" y="-2747.259"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_bbbaf923cdbf4de8314d563fb7030517" label="Political theology">
@@ -2966,8 +2966,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="2641.4414" y="-15364.534"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="649.2048" y="-3739.1082"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_a0f15d09df04d9ad657ce26e371ddf9a" label="Politics">
@@ -2977,8 +2977,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-14829.884" y="-3572.5732"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3551.7354" y="-903.7582"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_f44e08202421d214f80b48afe4ef54a4" label="Populism">
@@ -2988,8 +2988,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-14345.025" y="-5083.552"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3435.1523" y="-1267.0696"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_5d6b44d981621d24a68b3bf95f06baa4" label="Posthumanism">
@@ -2999,8 +2999,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="13777.939" y="-11396.149"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3326.9504" y="-2784.9192"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_60af83a785b06536e617bc37d11b3879" label="Postmigration">
@@ -3010,8 +3010,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="15586.089" y="-4326.56"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3761.7158" y="-1085.0526"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_391744360eec0f2acd5664fcde5fc0fc" label="Political economy">
@@ -3021,8 +3021,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="3"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-2686.8555" y="14166.78"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-631.97205" y="3361.629"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_76a18941631da1f461b50e27a47477a9" label="Practices of care and solidarity">
@@ -3032,8 +3032,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="9526.501" y="12747.537"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2304.7017" y="3020.375"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_f0beae869e4d58c8c82828a185f1cece" label="Precarity">
@@ -3043,8 +3043,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="3694.2727" y="12923.754"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="902.35565" y="3062.746"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_d295ae625ef94b2d8b9676d9dddf7685" label="Production studies">
@@ -3054,8 +3054,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="11"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="13889.264" y="7487.4336"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3353.718" y="1755.5952"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_537c729416a1a8c39f4c5a6f38f11e56" label="Psychoanalysis">
@@ -3065,8 +3065,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="20736.0" y="2496.7224"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="5000.0" y="555.5901"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_ee115a78c3f56618343a3a1b508ff75e" label="Public libraries">
@@ -3076,8 +3076,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-5752.409" y="14701.922"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1369.0775" y="3490.3025"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_768d6cbc725ebf439643ccb1e65ee577" label="Publishing studies">
@@ -3087,8 +3087,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="9464.956" y="8851.77"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2289.9033" y="2083.6467"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_47ce11bd315de5e2409bed5db97acaed" label="Quantiative methods">
@@ -3098,8 +3098,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-15033.563" y="-2152.1775"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3600.7097" y="-562.2273"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_a0c4174a9500d09359369d9deac0d1ff" label="Radicalism">
@@ -3109,8 +3109,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="11830.41" y="-12125.307"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2858.6714" y="-2960.2434"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_ace1621cf61540b181fa60aca4232f75" label="Reflexivity/selfhood">
@@ -3120,8 +3120,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-15920.346" y="9807.96"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3813.9346" y="2313.5605"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_3ba5cab06a26ed83f9c8f2a67bba9d67" label="Reformation theology">
@@ -3131,8 +3131,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="1400.2516" y="-14797.377"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="350.76352" y="-3602.7366"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_45f510979f41f2fc4cd6e46a1243c682" label="Religious practices">
@@ -3142,8 +3142,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-13653.568" y="7785.5205"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3268.893" y="1827.2695"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_08a1db6ae98cffd1aef2f764f9703b5a" label="Rhetoric">
@@ -3153,8 +3153,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="5283.0005" y="-16399.36"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1284.3616" y="-3987.9297"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_9f5f90f9339393c46c71e7a7647d2ccb" label="Semantic analyses">
@@ -3164,8 +3164,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="10"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-7841.771" y="-16833.166"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1871.4597" y="-4092.2373"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_b19245958140d2f7ebc3abe806e8f46a" label="Semantics">
@@ -3175,8 +3175,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="10"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-8353.564" y="-16277.725"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1994.5192" y="-3958.6829"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_6538da464d287bfee18364c48c60cc67" label="Slow memory and remembrance">
@@ -3186,8 +3186,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="7611.297" y="13146.134"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1844.1951" y="3116.2168"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_dea9af694385c3284bd328f99371cd47" label="Social infrastructures">
@@ -3197,8 +3197,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-6955.98" y="15141.838"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1658.4733" y="3596.079"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_a7f6d59c868b7788bf68a34457950d92" label="Social sustainability">
@@ -3208,8 +3208,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-7283.718" y="14430.42"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1737.2771" y="3425.0203"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_6d7afda48b7093452f11465b19185e80" label="Society and innovation">
@@ -3219,8 +3219,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="18377.52" y="1682.973"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4432.9087" y="359.92593"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_325137bfb931031b8cd721a0042c8343" label="Sociology of emotions">
@@ -3230,8 +3230,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="1259.1356" y="15559.771"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="316.83252" y="3696.5703"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_baff18f1b2e3e76ace103c7720247e17" label="Sociology of journalism">
@@ -3241,8 +3241,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="4778.4634" y="13542.087"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1163.0468" y="3211.4229"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_8aaf7fb27815fbc4e9691278bb72375b" label="Spatiality">
@@ -3252,8 +3252,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-14977.9" y="10685.385"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3587.3257" y="2524.5352"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_b0ce78e42f4aea9c70bfd04c5c09377a" label="Stemmatology">
@@ -3263,8 +3263,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="11749.805" y="-15586.459"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2839.29" y="-3792.4695"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_b846077409dc6a1778d9fc7e313fd53b" label="STS">
@@ -3274,8 +3274,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-8422.287" y="13289.782"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2011.0435" y="3150.7566"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_35ab56109ec402d8f179e710e4623ad9" label="Symbolic interaction theory">
@@ -3285,8 +3285,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-693.8195" y="15976.33"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-152.7511" y="3796.731"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_92afdce9b79841ce45d7c97c16bf015f" label="Symbolic interactionism">
@@ -3296,8 +3296,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-15785.274" y="-1253.0271"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3781.4568" y="-346.0286"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_3a1c231ce8b8ee303c71e0ba006a0f05" label="Systematic theological approaches">
@@ -3307,8 +3307,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="0"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="17657.94" y="2255.0918"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4259.887" y="497.49054"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_bf46c9aa184b0a6afd2520a7454fc44a" label="Textual studies">
@@ -3318,8 +3318,8 @@
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="15556.826" y="6207.911"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3754.6797" y="1447.9369"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_cd8e8970d15b3583a7247ade0168fcfb" label="Textual traditions">
@@ -3329,8 +3329,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="9593.233" y="-17028.416"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="2320.7473" y="-4139.185"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_81a4f18daf5f19cf8aabab52d45dec34" label="Theatre studies">
@@ -3340,8 +3340,8 @@
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-10228.864" y="6885.967"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-2445.4307" y="1610.9739"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="keyword_f3543686b1aeb9182696bde8e16145b2" label="Theories of fiction">
@@ -3351,8 +3351,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="19257.11" y="-4860.9204"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4644.404" y="-1213.5383"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_9e6cb1d4ce6d776ce06ba6bdb89f37b8" label="Theory of justice">
@@ -3362,8 +3362,8 @@
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-15759.809" y="1424.6871"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3775.3337" y="297.8217"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_56599628bcc27ed189dbb7b5808f5914" label="Thomas mann">
@@ -3373,8 +3373,8 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="15835.4" y="-5420.79"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3821.662" y="-1348.1577"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_23c04680abac66aee094f46e12e0ba42" label="Transculturality">
@@ -3384,19 +3384,20 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="16895.055" y="-3867.7673"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4076.4534" y="-974.73694"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_f3685c972b9eb6f5bbb77ef339797b8e" label="Translation studies">
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value=""/>
           <attvalue for="type" value="Theoretical Approach"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="16235.074" y="-2956.261"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="3917.7627" y="-755.5673"/>
         <viz:color r="95" g="198" b="19"/>
       </node>
       <node id="keyword_4e1e840bfd2d49abac2f8a3af841a229" label="Uses of history">
@@ -3406,41 +3407,44 @@
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-6075.3047" y="7121.5874"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-1446.7169" y="1667.6283"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="keyword_f3aa233c44f4178b1e2306896cbbccef" label="Visual media analysis">
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value=""/>
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="-14755.266" y="4723.0996"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="-3533.7937" y="1090.9174"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_dbd6aa70f9afc6997c1e82e3980f94d2" label="Visual methodology">
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value=""/>
           <attvalue for="type" value="Methodologies"/>
           <attvalue for="modularity_class" value="2"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="4665.359" y="14327.389"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="1135.8511" y="3400.2468"/>
         <viz:color r="255" g="255" b="85"/>
       </node>
       <node id="keyword_640c14b7b1e8b132492d5cc0e92f2f1d" label="World literature">
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value=""/>
           <attvalue for="type" value="Themes"/>
           <attvalue for="modularity_class" value="5"/>
         </attvalues>
-        <viz:size value="13.344634"/>
-        <viz:position x="16895.91" y="-5874.492"/>
+        <viz:size value="6.246896"/>
+        <viz:position x="4076.659" y="-1457.2494"/>
         <viz:color r="36" g="143" b="0"/>
       </node>
       <node id="3" label="Rahel Weldeab Sebhatu">
@@ -3451,7 +3455,7 @@
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="-2809.4016" y="5511.5215"/>
+        <viz:position x="-661.438" y="1280.4916"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="4" label="Marianne Kirk">
@@ -3462,7 +3466,7 @@
           <attvalue for="modularity_class" value="4"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="-4367.258" y="-1675.2976"/>
+        <viz:position x="-1036.021" y="-447.56256"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="5" label="Asko Kauppinen">
@@ -3473,7 +3477,7 @@
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="2417.0842" y="-2296.3438"/>
+        <viz:position x="595.2586" y="-596.8917"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="6" label="Ismar Dedovic">
@@ -3484,7 +3488,7 @@
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="678.07825" y="-2398.9062"/>
+        <viz:position x="177.11858" y="-621.5527"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="7" label="Christian Benne">
@@ -3495,7 +3499,7 @@
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="-1356.2334" y="-2199.2324"/>
+        <viz:position x="-312.02698" y="-573.5415"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="8" label="Niklas Olsen">
@@ -3506,7 +3510,7 @@
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="2200.0498" y="-1266.9126"/>
+        <viz:position x="543.0732" y="-349.36734"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="9" label="Irina Hron">
@@ -3517,18 +3521,19 @@
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="-237.99524" y="-2700.8916"/>
+        <viz:position x="-43.149197" y="-694.1643"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="10" label="Psychology">
         <attvalues>
           <attvalue for="attr_type" value="Keyword"/>
           <attvalue for="global_occurrences" value="1"/>
+          <attvalue for="attr_1_2" value=""/>
           <attvalue for="type" value="Disciplines"/>
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="7375.918" y="-6448.9595"/>
+        <viz:position x="1787.5988" y="-1595.3787"/>
         <viz:color r="111" g="255" b="74"/>
       </node>
       <node id="11" label="Erik Sidenvall">
@@ -3539,7 +3544,7 @@
           <attvalue for="modularity_class" value="8"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="1456.5989" y="-1994.6893"/>
+        <viz:position x="364.3121" y="-524.35956"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="12" label="Amanda Hammar">
@@ -3550,7 +3555,7 @@
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="-9180.101" y="3268.4888"/>
+        <viz:position x="-2193.2578" y="741.15955"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="13" label="African Studies">
@@ -3562,7 +3567,7 @@
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="-14222.231" y="6077.584"/>
+        <viz:position x="-3405.6267" y="1416.6001"/>
         <viz:color r="133" g="85" b="0"/>
       </node>
       <node id="14" label="Elzbieta Drazkiewicz">
@@ -3573,7 +3578,7 @@
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="-8692.065" y="1176.0404"/>
+        <viz:position x="-2075.911" y="238.03513"/>
         <viz:color r="74" g="252" b="255"/>
       </node>
       <node id="15" label="Daniel Steinbach">
@@ -3584,7 +3589,7 @@
           <attvalue for="modularity_class" value="9"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="2296.4326" y="-1795.9995"/>
+        <viz:position x="566.2482" y="-476.58508"/>
         <viz:color r="0" g="102" b="102"/>
       </node>
       <node id="16" label="Svitlana Babenko">
@@ -3595,7 +3600,7 @@
           <attvalue for="modularity_class" value="7"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="-9283.243" y="1832.7593"/>
+        <viz:position x="-2218.0583" y="395.94168"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
       <node id="17" label="Susan Kozel">
@@ -3606,7 +3611,7 @@
           <attvalue for="modularity_class" value="6"/>
         </attvalues>
         <viz:size value="4.0"/>
-        <viz:position x="7592.8594" y="1457.3651"/>
+        <viz:position x="1839.7618" y="305.67902"/>
         <viz:color r="141" g="164" b="255"/>
       </node>
     </nodes>
